@@ -1,4 +1,5 @@
 //how to read json file with correct fomart json data??
+
 var text1 = '[' + 
 '{"Diseases":"Acute lower respiratory tract infections","Intervention":"Vit A"},' +
 '{"Diseases":"Acute upper respiratory tract infections","Intervention":"Nasal Irrigation"},' + 
@@ -165,7 +166,9 @@ var all = new Array();
 
         
           j = i + 1;
+
        if (obj[i].Diseases == obj [j].Diseases)//only if same diseases are sorted linearly?
+
          {
               number = number + 1;
           // console.log(number);
@@ -182,6 +185,7 @@ else{
 
 
     }
+
 
 
 
@@ -239,7 +243,6 @@ for(var t=0;t<data.length;t++)
    console.log(data[t]);
     
 }
-
 
 
 

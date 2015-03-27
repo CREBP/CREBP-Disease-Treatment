@@ -627,38 +627,49 @@ var rawData =
 ];
 // }}}
 
-// Compute Bipartite {{{
-var bipartite = [];
+// Compute Bipartite(s) {{{
+var maxData = 30; // Max amount of data in one graph
+var bipartiteSet = [];
 
-var diseaseWeight = {};
-var interventionsWeight = {};
+for (var b = 0; b < rawData.length / maxData; b++) {
+	var bipartite = [];
 
-rawData.forEach(function(item) {
-	var diseaseKey = item.Diseases + '-' + item.Intervention;
-	if (!diseaseWeight[diseaseKey]) diseaseWeight[diseaseKey] = 0;
-	diseaseWeight[diseaseKey]++;
+	var diseaseWeight = {};
+	var interventionsWeight = {};
 
-	var interventionKey = item.Intervention + '-' + item.Diseases;
-	if (!interventionsWeight[interventionKey]) interventionsWeight[interventionKey] = 0;
-	interventionsWeight[interventionKey]++;
-});
+	rawData.slice(b, b + maxData + 1).forEach(function(item) {
+		var diseaseKey = item.Diseases + '-' + item.Intervention;
+		if (!diseaseWeight[diseaseKey]) diseaseWeight[diseaseKey] = 0;
+		diseaseWeight[diseaseKey]++;
 
-Object.keys(diseaseWeight).forEach(function(dw) {
-	var disease = dw.split('-')[0];
-	var intervention = dw.split('-')[1];
+		var interventionKey = item.Intervention + '-' + item.Diseases;
+		if (!interventionsWeight[interventionKey]) interventionsWeight[interventionKey] = 0;
+		interventionsWeight[interventionKey]++;
+	});
 
-	var weight = diseaseWeight[dw];
-	var interventionWeight = interventionsWeight[intervention + '-' + disease];
+	Object.keys(diseaseWeight).forEach(function(dw) {
+		var disease = dw.split('-')[0];
+		var intervention = dw.split('-')[1];
 
-	if (!interventionWeight) return;
+		var weight = diseaseWeight[dw];
+		var interventionWeight = interventionsWeight[intervention + '-' + disease];
 
-	bipartite.push([
-		disease,
-		intervention,
-		weight,
-		interventionWeight,
-	]);
-});
+		if (!interventionWeight) return;
+
+		bipartite.push([
+			disease,
+			intervention,
+			weight,
+			interventionWeight,
+		]);
+	});
+
+	bipartiteSet.push({
+		header: ['Disease', 'Intervention', 'Weight'],
+		id: 'bipartiteGraph-' + bipartiteSet.length,
+		data: bP.partData(bipartite, 2),
+	});
+}
 // }}}
 
 // Draw graph {{{
@@ -668,13 +679,7 @@ var svg = d3.select("body")
 	.append("svg").attr('width',width).attr('height',(height+margin.b+margin.t))
 	.append("g").attr("transform","translate("+ margin.l+","+margin.t+")");
 
-bP.draw([
-	{
-		header: ['Diease', 'Intervention', 'Weight'],
-		id: 'bipartiteGraph',
-		data: bP.partData(bipartite,2),
-	}
-], svg);
+bP.draw(bipartiteSet, svg);
 // }}}
 </script>
 </body>

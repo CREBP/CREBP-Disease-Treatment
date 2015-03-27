@@ -1,4 +1,4 @@
-!function(){
+!function() {
 	var bP={};	
 	var b=30, bb=150, height=600, buffMargin=1, minHeight=14;
 	var c1=[-130, 40], c2=[-50, 100], c3=[-10, 140]; //Column positions of labels.
@@ -6,6 +6,10 @@
 	
 	bP.partData = function(data,p){
 		var sData={};
+
+		for (var c = colors.length; c < data.length; c++) {
+			colors.push(goldenColors.getHsvGolden(0.5, 0.95).toHexString());
+		}
 		
 		sData.keys=[
 			d3.set(data.map(function(d){ return d[0];})).values().sort(function(a,b){ return ( a<b? -1 : a>b ? 1 : 0);}),

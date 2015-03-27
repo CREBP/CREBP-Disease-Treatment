@@ -179,76 +179,53 @@ var number = 1;
 var all = new Array();
 //console.log(obj[0].Diseases);
 
- for(var i=0;i<obj.length-1;i++){
-
-        
-          j = i + 1;
-       if (obj[i].Diseases == obj [j].Diseases)
-         {
-              number = number + 1;
-          // console.log(number);
-              
-         }
-else{
-             var count = new Array();
-            count['Diseases'] = obj[i].Diseases;
-             count['amount'] = number;
-             all.push(count);
-            var number = 1;
-          // console.log(number);
+for(var i=0;i<obj.length-1;i++){
+	j = i + 1;
+	if (obj[i].Diseases == obj [j].Diseases) {
+		number = number + 1;
+		// console.log(number);
+	 } else {
+		var count = new Array();
+		count['Diseases'] = obj[i].Diseases;
+		count['amount'] = number;
+		all.push(count);
+		var number = 1;
+		// console.log(number);
+	}
 }
 
 
-    }
-
-
-
 var sales_data = new Array();
-for(var s=0;s<obj.length;s++)
-{
-    relationship = 1;//why there are two way relationships??
-    if (s > 0)
+for(var s = 0; s < obj.length; s++) {
+	relationship = 1;//why there are two way relationships??
 
-{
-       ss = s - 1;
-     if((obj[ss].Diseases == obj[s].Diseases) && (obj[ss].Intervention == obj[s].Intervention))
-
-   {
-       
-        relationship = relationship + 1;
-        sales_data.pop();//delete last element of array which is repeated
-
-   }
-
-} 
+	if (s > 0) {
+		ss = s - 1;
+		if((obj[ss].Diseases == obj[s].Diseases) && (obj[ss].Intervention == obj[s].Intervention)) {
+			relationship = relationship + 1;
+			sales_data.pop();//delete last element of array which is repeated
+		}
+	} 
 
 
-    if(obj[s].Intervention.search(",") == -1)
-  {
-  var row = new Array();
-   row[0] = obj[s].Diseases;
-   row[1] = obj[s].Intervention;
-   row[2] = relationship;
-   row[3] = relationship;
-
-   sales_data.push(row);
-  }
-    else
-  {
-     var a = obj[s].Intervention.split(",");//only when comma separate string?
-         for(var e=0; e<a.length; e++)
-              {
-          
-                var row = new Array();
-                row[0] = obj[s].Diseases;
-                row[1] = a[e];
-                row[2] = relationship;
-                row[3] = relationship;
-                sales_data.push(row);
-               
-              }
-  }
-
+	if(obj[s].Intervention.search(",") == -1) {
+		var row = new Array();
+		row[0] = obj[s].Diseases;
+		row[1] = obj[s].Intervention;
+		row[2] = relationship;
+		row[3] = relationship;
+		sales_data.push(row);
+	} else {
+		var a = obj[s].Intervention.split(",");//only when comma separate string?
+		for(var e=0; e<a.length; e++) {
+			var row = new Array();
+			row[0] = obj[s].Diseases;
+			row[1] = a[e];
+			row[2] = relationship;
+			row[3] = relationship;
+			sales_data.push(row);
+		}
+	}
 }
 
 

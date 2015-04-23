@@ -5,7 +5,11 @@ var bipartite = [];
 
 var diseases = _.uniq(_.pluck(data, 'Diseases'));
 var diseaseWeight = {};
+<<<<<<< HEAD
+var interventions = _.uniq(_.pluck(data, 'Intervention'));
+=======
 var interventions = _.uniq(_.pluck(data, 'Interventions'));
+>>>>>>> 1eb129a00a4a795bc91894be1a388bf1e7c3e448
 var interventionsWeight = {};
 
 _.forEach(data, function(item) {
@@ -37,3 +41,8 @@ _.forEach(diseaseWeight, function(weight, dw) {
 });
 
 console.log(bipartite);
+<<<<<<< HEAD
+
+console.log(bipartite.length);
+=======
+>>>>>>> 1eb129a00a4a795bc91894be1a388bf1e7c3e448

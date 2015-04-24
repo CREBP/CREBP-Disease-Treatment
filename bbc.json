@@ -31,7 +31,7 @@
 ,
 {"Title":"Specific immune response in the respiratory tract after administration of an oral polyvalent bacterial vaccine","Intervention":"Vaccination","Health condition":"Staph aureus","":""}
 ,
-{"Title":"Specific immune response in the respiratory tract after administration of an oral polyvalent bacterial vaccine","Intervention":"Vaccination","Health condition":" HIB","":""}
+{"Title":"Specific immune response in the respiratory tract after administration of an oral polyvalent bacterial vaccine","Intervention":"Vaccination","Health condition":"HIB","":""}
 ,
 {"Title":"Aerosolized ceftazidime prophylaxis against ventilator-associated pneumonia in high-risk trauma patients: results of a double-blind randomized study","Intervention":"Antibiotics","Health condition":"VAP","":""}
 ,
@@ -273,7 +273,7 @@
 ,
 {"Title":"Valtrex therapy for Epstein-Barr virus reactivation and upper respiratory symptoms in elite runners","Intervention":"Antiviral","Health condition":"URTI","":""}
 ,
-{"Title":"Rifampin prophylaxis for contacts of Haemophilus influenzae type b disease","Intervention":"Antibiotics","Health condition":" HIB","":""}
+{"Title":"Rifampin prophylaxis for contacts of Haemophilus influenzae type b disease","Intervention":"Antibiotics","Health condition":"HIB","":""}
 ,
 {"Title":"A phase I clinical trial of a PER.C6 cell grown influenza H7 virus vaccine","Intervention":"Vaccination","Health condition":"Influenza","":""}
 ,
@@ -367,7 +367,7 @@
 ,
 {"Title":"Safety and immunogenicity in young infants of Haemophilus b-tetanus protein conjugate vaccine, mixed in the same syringe with Diptheria-tetanus-pertussis-enhanced inactivated poliovirus vaccine","Intervention":"Vaccination","Health condition":"Pertussis","":""}
 ,
-{"Title":"Safety and immunogenicity in young infants of Haemophilus b-tetanus protein conjugate vaccine, mixed in the same syringe with Diptheria-tetanus-pertussis-enhanced inactivated poliovirus vaccine","Intervention":"Vaccination","Health condition":" HIB","":""}
+{"Title":"Safety and immunogenicity in young infants of Haemophilus b-tetanus protein conjugate vaccine, mixed in the same syringe with Diptheria-tetanus-pertussis-enhanced inactivated poliovirus vaccine","Intervention":"Vaccination","Health condition":"HIB","":""}
 ,
 {"Title":"Topical intranasal corticosteroids in 4-11 year old children with persistent bilateral otitis media with effusion in primary care: double blind randomised placebo controlled trial","Intervention":"Corticosteroids","Health condition":"Otitis Media","":""}
 ,
@@ -383,13 +383,13 @@
 ,
 {"Title":"Safety and immunogenicity of a combined pentavalent Diptheria, tetanus, acellular pertussis, inactivated poliovirus and Haemophilus influenzae type b-tetanus conjugate vaccine in infants, compared with a whole cell pertussis pentavalent vaccine","Intervention":"Vaccination","Health condition":"Polio","":""}
 ,
-{"Title":"Safety and immunogenicity of a combined pentavalent Diptheria, tetanus, acellular pertussis, inactivated poliovirus and Haemophilus influenzae type b-tetanus conjugate vaccine in infants, compared with a whole cell pertussis pentavalent vaccine","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Safety and immunogenicity of a combined pentavalent Diptheria, tetanus, acellular pertussis, inactivated poliovirus and Haemophilus influenzae type b-tetanus conjugate vaccine in infants, compared with a whole cell pertussis pentavalent vaccine","Intervention":"Vaccination","Health condition":"Diptheria","":""}
 ,
 {"Title":"Reactogenicity and immunogenicity of reduced antigen content Diptheria-tetanus-acellular pertussis vaccines as a booster in 4-7-year-old children primed with Diptheria-tetanus-whole cell pertussis vaccine before 2 years of age","Intervention":"Vaccination","Health condition":"Tetanus","":""}
 ,
 {"Title":"Reactogenicity and immunogenicity of reduced antigen content Diptheria-tetanus-acellular pertussis vaccines as a booster in 4-7-year-old children primed with Diptheria-tetanus-whole cell pertussis vaccine before 2 years of age","Intervention":"Vaccination","Health condition":"Pertussis","":""}
 ,
-{"Title":"Reactogenicity and immunogenicity of reduced antigen content Diptheria-tetanus-acellular pertussis vaccines as a booster in 4-7-year-old children primed with Diptheria-tetanus-whole cell pertussis vaccine before 2 years of age","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Reactogenicity and immunogenicity of reduced antigen content Diptheria-tetanus-acellular pertussis vaccines as a booster in 4-7-year-old children primed with Diptheria-tetanus-whole cell pertussis vaccine before 2 years of age","Intervention":"Vaccination","Health condition":"Diptheria","":""}
 ,
 {"Title":"Bacteriologic and clinical efficacy of amoxicillin/clavulanate vs. azithromycin in acute otitis media","Intervention":"Antibiotic vs antibiotic","Health condition":"Otitis Media","":""}
 ,
@@ -427,7 +427,7 @@
 ,
 {"Title":"Does tetanus immune globulin interfere with the immune response to simultaneous administration of tetanus-Diptheria vaccine? A comparative clinical trial in adults","Intervention":"Vaccination","Health condition":"Diptheria","":""}
 ,
-{"Title":"Does tetanus immune globulin interfere with the immune response to simultaneous administration of tetanus-Diptheria vaccine? A comparative clinical trial in adults","Intervention":"Vaccination","Health condition":" Tetanus","":""}
+{"Title":"Does tetanus immune globulin interfere with the immune response to simultaneous administration of tetanus-Diptheria vaccine? A comparative clinical trial in adults","Intervention":"Vaccination","Health condition":"Tetanus","":""}
 ,
 {"Title":"Immunogenicity, safety, and cross-reactivity of an inactivated, adjuvanted, prototype pandemic influenza (H5N1) vaccine: a phase II, double-blind, randomized trial","Intervention":"Vaccination","Health condition":"Influenza","":""}
 ,
@@ -483,15 +483,15 @@
 ,
 {"Title":"Clinical observation on treatment of 32 patients with measles by qingzhen decoction","Intervention":"Chinese Medicine","Health condition":"Measles","":""}
 ,
-{"Title":"Safety, tolerability, and immunogenicity of concurrent administration of Haemophilus influenzae type b conjugate vaccine (meningococcal protein conjugate) with either measles-mumps-rubella vaccine or Diptheria-tetanus-pertussis and oral poliovirus vaccines in 14- to 23-month-old infants","Intervention":"Vaccination","Health condition":" HIB","":""}
+{"Title":"Safety, tolerability, and immunogenicity of concurrent administration of Haemophilus influenzae type b conjugate vaccine (meningococcal protein conjugate) with either measles-mumps-rubella vaccine or Diptheria-tetanus-pertussis and oral poliovirus vaccines in 14- to 23-month-old infants","Intervention":"Vaccination","Health condition":"HIB","":""}
 ,
 {"Title":"Childhood mortality after a high dose of vitamin A in a high risk population. [see comments.]","Intervention":"Vitamin A","Health condition":"measles","":""}
 ,
 {"Title":"Childhood mortality after a high dose of vitamin A in a high risk population. [see comments.]","Intervention":"Vitamin A","Health condition":"pneumonia ","":""}
 ,
-{"Title":"Trimethoprim and rifampin in combination for chemoprophylaxis of household contacts of patients with invasive infections due to Haemophilus influenzae type b","Intervention":"Antibiotics","Health condition":" HiB","":""}
+{"Title":"Trimethoprim and rifampin in combination for chemoprophylaxis of household contacts of patients with invasive infections due to Haemophilus influenzae type b","Intervention":"Antibiotics","Health condition":"HIB","":""}
 ,
-{"Title":"Rifampin chemoprophylaxis for household contacts of patients with invasive infections due to Haemophilus influenzae type b","Intervention":"Antibiotics","Health condition":" HiB","":""}
+{"Title":"Rifampin chemoprophylaxis for household contacts of patients with invasive infections due to Haemophilus influenzae type b","Intervention":"Antibiotics","Health condition":"HIB","":""}
 ,
 {"Title":"Infant immunization with pneumococcal CRM197 vaccines: effect of saccharide size on immunogenicity and interactions with simultaneously administered vaccines","Intervention":"Vaccination","Health condition":"Pneumococcal","":""}
 ,
@@ -509,7 +509,7 @@
 ,
 {"Title":"Safety of Tdap-IPV given one month after Td-IPV booster in healthy young adults: a placebo-controlled trial","Intervention":"Vaccination","Health condition":"Diptheria","":""}
 ,
-{"Title":"Safety of Tdap-IPV given one month after Td-IPV booster in healthy young adults: a placebo-controlled trial","Intervention":"Vaccination","Health condition":" Tetanus","":""}
+{"Title":"Safety of Tdap-IPV given one month after Td-IPV booster in healthy young adults: a placebo-controlled trial","Intervention":"Vaccination","Health condition":"Tetanus","":""}
 ,
 {"Title":"A novel influenza A (H1N1) vaccine in various age groups","Intervention":"Vaccination","Health condition":"Influenza","":""}
 ,
@@ -597,7 +597,7 @@
 ,
 {"Title":"Open randomized controlled parallel study of ofloxacin versus trimethoprim-sulfamethoxazole treatment of lower respiratory tract and urinary infections","Intervention":"Antibiotic vs antibiotic","Health condition":"LRTI","":""}
 ,
-{"Title":"Haemophilus influenzae type b immunization in adults infected with the human immunodeficiency virus","Intervention":"Vaccination","Health condition":" HIB","":""}
+{"Title":"Haemophilus influenzae type b immunization in adults infected with the human immunodeficiency virus","Intervention":"Vaccination","Health condition":"HIB","":""}
 ,
 {"Title":"Does amoxicillin improve outcomes in patients with purulent rhinorrhea? A pragmatic randomized double-blind controlled trial in family practice. [see comments.]","Intervention":"Antibiotics","Health condition":"Common cold","":""}
 ,
@@ -765,13 +765,13 @@
 ,
 {"Title":"Hepatitis B component does not interfere with the immune response to Diptheria, tetanus and whole-cell Bordetella pertussis components of a quadrivalent (DTPw-HB) vaccine: a controlled trial in healthy infants","Intervention":"Vaccination","Health condition":"pertussis","":""}
 ,
-{"Title":"Hepatitis B component does not interfere with the immune response to Diptheria, tetanus and whole-cell Bordetella pertussis components of a quadrivalent (DTPw-HB) vaccine: a controlled trial in healthy infants","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Hepatitis B component does not interfere with the immune response to Diptheria, tetanus and whole-cell Bordetella pertussis components of a quadrivalent (DTPw-HB) vaccine: a controlled trial in healthy infants","Intervention":"Vaccination","Health condition":"Diptheria","":""}
 ,
 {"Title":"Ibuprofen prophylaxis for adverse reactions to Diptheria-tetanus- pertussis vaccination: A randomized trial","Intervention":"Vaccination","Health condition":"tetanus","":""}
 ,
 {"Title":"Ibuprofen prophylaxis for adverse reactions to Diptheria-tetanus- pertussis vaccination: A randomized trial","Intervention":"Vaccination","Health condition":"pertussis","":""}
 ,
-{"Title":"Ibuprofen prophylaxis for adverse reactions to Diptheria-tetanus- pertussis vaccination: A randomized trial","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Ibuprofen prophylaxis for adverse reactions to Diptheria-tetanus- pertussis vaccination: A randomized trial","Intervention":"Vaccination","Health condition":"Diptheria","":""}
 ,
 {"Title":"Comparison of elderly people's technique in using two dry powder inhalers to deliver zanamivir: randomised controlled trial","Intervention":"Antivirals","Health condition":"Influenza","":""}
 ,
@@ -785,7 +785,7 @@
 ,
 {"Title":"The impact of computer-generated messages on childhood immunization coverage","Intervention":"vaccination","Health condition":"pertussis","":""}
 ,
-{"Title":"The impact of computer-generated messages on childhood immunization coverage","Intervention":"vaccination","Health condition":" Diptheria","":""}
+{"Title":"The impact of computer-generated messages on childhood immunization coverage","Intervention":"vaccination","Health condition":"Diptheria","":""}
 ,
 {"Title":"Sinus tissue pharmacokinetics after oral administration of amoxicillin/clavulanic acid","Intervention":"Antibiotics","Health condition":"Sinusitis","":""}
 ,
@@ -889,7 +889,7 @@
 ,
 {"Title":"Increased female-male mortality ratio associated with inactivated polio and Diptheria-tetanus-pertussis vaccines: Observations from vaccination trials in Guinea-Bissau","Intervention":"Vaccination","Health condition":"pertussis","":""}
 ,
-{"Title":"Increased female-male mortality ratio associated with inactivated polio and Diptheria-tetanus-pertussis vaccines: Observations from vaccination trials in Guinea-Bissau","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Increased female-male mortality ratio associated with inactivated polio and Diptheria-tetanus-pertussis vaccines: Observations from vaccination trials in Guinea-Bissau","Intervention":"Vaccination","Health condition":"Diptheria","":""}
 ,
 {"Title":"Prophylactic efficacy of intranasal alpha 2-interferon against rhinovirus infections in the family setting","Intervention":"Interferon","Health condition":"Common cold","":""}
 ,
@@ -931,7 +931,7 @@
 ,
 {"Title":"A randomized, placebo-controlled study of oral cimetidine as an immunopotentiator of parenteral immunization with a group B meningococcal vaccine","Intervention":"Vaccination","Health condition":"Meningococcal","":""}
 ,
-{"Title":"Introducing auto-disable syringes to the national immunization programme in Madagascar","Intervention":"Vaccination","Health condition":" DTP","":""}
+{"Title":"Introducing auto-disable syringes to the national immunization programme in Madagascar","Intervention":"Vaccination","Health condition":"DTP","":""}
 ,
 {"Title":"Supine body position as a risk factor for nosocomial pneumonia in mechanically ventilated patients: a randomised trial. [see comments.]","Intervention":"Positioning","Health condition":"HAP","":""}
 ,
@@ -1219,7 +1219,7 @@
 ,
 {"Title":"Acellular and whole-cell pertussis vaccines as booster doses: a multicenter study","Intervention":"Vaccination","Health condition":"Pertussis","":""}
 ,
-{"Title":"Transplacental antibody transfer following maternal immunization with polysaccharide and conjugate Haemophilus influenzae type b vaccines","Intervention":"Vaccination","Health condition":" HIB","":""}
+{"Title":"Transplacental antibody transfer following maternal immunization with polysaccharide and conjugate Haemophilus influenzae type b vaccines","Intervention":"Vaccination","Health condition":"HIB","":""}
 ,
 {"Title":"Controlled study of a new five-component acellular pertussis vaccine in adults and young children","Intervention":"Vaccination","Health condition":"Pertussis","":""}
 ,
@@ -1271,15 +1271,15 @@
 ,
 {"Title":"A serogroup A meningococcal polysaccharide vaccine: studies in the Sudan to combat cerebrospinal meningitis caused by Neisseria meningitidis group A","Intervention":"Vaccination","Health condition":"Meningitis","":""}
 ,
-{"Title":"A randomized, prospective field trial of a conjugate vaccine in the protection of infants and young children against invasive Haemophilus influenzae type b disease. [see comments.]","Intervention":"Vaccination","Health condition":" HIB","":""}
+{"Title":"A randomized, prospective field trial of a conjugate vaccine in the protection of infants and young children against invasive Haemophilus influenzae type b disease. [see comments.]","Intervention":"Vaccination","Health condition":"HIB","":""}
 ,
 {"Title":"Reactogenicity and immunogenicity of combined vaccines for bacteraemic diseases caused by Haemophilus influenzae type b, meningococci and pneumococci in 24-month-old children","Intervention":"Vaccination","Health condition":"Pneumococcal","":""}
 ,
 {"Title":"Reactogenicity and immunogenicity of combined vaccines for bacteraemic diseases caused by Haemophilus influenzae type b, meningococci and pneumococci in 24-month-old children","Intervention":"Vaccination","Health condition":"Meningococcal","":""}
 ,
-{"Title":"Reactogenicity and immunogenicity of combined vaccines for bacteraemic diseases caused by Haemophilus influenzae type b, meningococci and pneumococci in 24-month-old children","Intervention":"Vaccination","Health condition":" HIB","":""}
+{"Title":"Reactogenicity and immunogenicity of combined vaccines for bacteraemic diseases caused by Haemophilus influenzae type b, meningococci and pneumococci in 24-month-old children","Intervention":"Vaccination","Health condition":"HIB","":""}
 ,
-{"Title":"Efficacy of a Heptavalent Pneumococcal Conjugate Vaccine (PncCRM) against Serotype-specific, Culture-confirmed Pneumococcal Acute Otitis Media (AOM) in Infants and Children","Intervention":"Vaccination","Health condition":"pneumococcal","":""}
+{"Title":"Efficacy of a Heptavalent Pneumococcal Conjugate Vaccine (PncCRM) against Serotype-specific, Culture-confirmed Pneumococcal Acute Otitis Media (AOM) in Infants and Children","Intervention":"Vaccination","Health condition":"Pneumococcal","":""}
 ,
 {"Title":"Efficacy of a Heptavalent Pneumococcal Conjugate Vaccine (PncCRM) against Serotype-specific, Culture-confirmed Pneumococcal Acute Otitis Media (AOM) in Infants and Children","Intervention":"Vaccination","Health condition":"Otitis Media","":""}
 ,
@@ -1289,9 +1289,9 @@
 ,
 {"Title":"Randomised trial of the effect of co-administration with acellular pertussis DTP vaccine on immunogenicity of Haemophilus influenzae type b conjugate vaccine. [see comments.]","Intervention":"Vaccination","Health condition":"tetanus","":""}
 ,
-{"Title":"Randomised trial of the effect of co-administration with acellular pertussis DTP vaccine on immunogenicity of Haemophilus influenzae type b conjugate vaccine. [see comments.]","Intervention":"Vaccination","Health condition":" HIB","":""}
+{"Title":"Randomised trial of the effect of co-administration with acellular pertussis DTP vaccine on immunogenicity of Haemophilus influenzae type b conjugate vaccine. [see comments.]","Intervention":"Vaccination","Health condition":"HIB","":""}
 ,
-{"Title":"Finnish efficacy trials with Haemophilus influenzae type b vaccines","Intervention":"Vaccination","Health condition":" HIB","":""}
+{"Title":"Finnish efficacy trials with Haemophilus influenzae type b vaccines","Intervention":"Vaccination","Health condition":"HIB","":""}
 ,
 {"Title":"Acute tonsillopharyngitis associated with atypical bacterial infection in children: natural history and impact of macrolide therapy","Intervention":"Antibiotics","Health condition":"Pharyngitis","":""}
 ,
@@ -1321,7 +1321,7 @@
 ,
 {"Title":"The use of oral dehydroepiandrosterone sulfate as an adjuvant in tetanus and influenza vaccination of the elderly","Intervention":"Steroid","Health condition":"Influenza","":""}
 ,
-{"Title":"The use of oral dehydroepiandrosterone sulfate as an adjuvant in tetanus and influenza vaccination of the elderly","Intervention":"Vaccination","Health condition":" tetanus","":""}
+{"Title":"The use of oral dehydroepiandrosterone sulfate as an adjuvant in tetanus and influenza vaccination of the elderly","Intervention":"Vaccination","Health condition":"tetanus","":""}
 ,
 {"Title":"Randomized, double-blind comparative trial of subunit and virosomal influenza vaccines for immunocompromised patients","Intervention":"Vaccination","Health condition":"Influenza","":""}
 ,
@@ -1427,7 +1427,7 @@
 ,
 {"Title":"[Evaluation of the reactogenicity and immunogenic potency of combined vaccine \"\"Bubo-Kok\"\" in the immunization of children against Diptheria, tetanus, pertussis and viral hepatit]","Intervention":"Vaccination","Health condition":"Hepatitis","":""}
 ,
-{"Title":"[Evaluation of the reactogenicity and immunogenic potency of combined vaccine \"\"Bubo-Kok\"\" in the immunization of children against Diptheria, tetanus, pertussis and viral hepatit]","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"[Evaluation of the reactogenicity and immunogenic potency of combined vaccine \"\"Bubo-Kok\"\" in the immunization of children against Diptheria, tetanus, pertussis and viral hepatit]","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Similar hematologic changes in children receiving trimethoprim-sulfamethoxazole or amoxicillin for otitis media","Intervention":"Antibiotic vs antibiotic","Health condition":"Otitis Media","":""}
 ,
@@ -1495,7 +1495,7 @@
 ,
 {"Title":"School health nurse interventions to increase immunisation uptake in school entrants","Intervention":"Vaccination","Health condition":"measles","":""}
 ,
-{"Title":"Om serumbehandling af difteri [On treatment of Diptheria with serum]","Intervention":"check","Health condition":" Diptheria","":""}
+{"Title":"Om serumbehandling af difteri [On treatment of Diptheria with serum]","Intervention":"check","Health condition":"diptheria","":""}
 ,
 {"Title":"Azithromycin: 3-day versus 5-day course in the treatment of respiratory tract infections in children. Croatian Azithromycin Study Group","Intervention":"Antibiotics","Health condition":"ARI","":""}
 ,
@@ -1529,7 +1529,7 @@
 ,
 {"Title":"[Tetravalent immunization with DPT and an inactivated polio vaccine]","Intervention":"Vaccination","Health condition":"polio","":""}
 ,
-{"Title":"[Tetravalent immunization with DPT and an inactivated polio vaccine]","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"[Tetravalent immunization with DPT and an inactivated polio vaccine]","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Randomized controlled trial of sequential intravenous (i.v.) and oral moxifloxacin compared with sequential i.v. and oral co-amoxiclav with or without clarithromycin in patients with community-acquired pneumonia requiring initial parenteral treatment","Intervention":"Antibiotic vs antibiotic","Health condition":"CAP","":""}
 ,
@@ -1699,11 +1699,11 @@
 ,
 {"Title":"Lymphocyte response to tetanus toxoid among Indonesian men immunized with tetanus-Diptheria during extended chloroquine or primaquine prophylaxis","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
-{"Title":"Lymphocyte response to tetanus toxoid among Indonesian men immunized with tetanus-Diptheria during extended chloroquine or primaquine prophylaxis","Intervention":"Vaccination","Health condition":" tetanus","":""}
+{"Title":"Lymphocyte response to tetanus toxoid among Indonesian men immunized with tetanus-Diptheria during extended chloroquine or primaquine prophylaxis","Intervention":"Vaccination","Health condition":"tetanus","":""}
 ,
 {"Title":"Humoral immune response to tetanus-Diptheria vaccine given during extended use of chloroquine or primaquine malaria chemoprophylaxis","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
-{"Title":"Humoral immune response to tetanus-Diptheria vaccine given during extended use of chloroquine or primaquine malaria chemoprophylaxis","Intervention":"Vaccination","Health condition":" tetanus","":""}
+{"Title":"Humoral immune response to tetanus-Diptheria vaccine given during extended use of chloroquine or primaquine malaria chemoprophylaxis","Intervention":"Vaccination","Health condition":"tetanus","":""}
 ,
 {"Title":"Results of a multicentric clinical study of mezlocillin in Japan (author's transl). [German]","Intervention":"Antibiotics","Health condition":"Meningitis","":""}
 ,
@@ -1729,7 +1729,7 @@
 ,
 {"Title":"Respiratory virus immunization. I. A field trial of two inactivated respiratory virus vaccines; an aqueous trivalent parainfluenza virus vaccine and an alum-precipitated respiratory syncytial virus vaccine","Intervention":"Vaccination","Health condition":"RSV","":""}
 ,
-{"Title":"Uptake of Haemophilus influenzae type b (Hib) vaccine in children attending child-care centres","Intervention":"Vaccination","Health condition":" HIB","":""}
+{"Title":"Uptake of Haemophilus influenzae type b (Hib) vaccine in children attending child-care centres","Intervention":"Vaccination","Health condition":"HIB","":""}
 ,
 {"Title":"Vaccination against measles in the Canadian Arctic","Intervention":"Vaccination","Health condition":"Measles","":""}
 ,
@@ -1763,7 +1763,7 @@
 ,
 {"Title":"Evaluation of the immunogenicity and reactogenicity of a DTPa-HBV-IPV Combination vaccine co-administered with a Hib conjugate vaccine either as a single injection of a hexavalent combination or as two separate injections at 3, 5 and 11 months of age","Intervention":"vaccination","Health condition":"Polio","":""}
 ,
-{"Title":"Evaluation of the immunogenicity and reactogenicity of a DTPa-HBV-IPV Combination vaccine co-administered with a Hib conjugate vaccine either as a single injection of a hexavalent combination or as two separate injections at 3, 5 and 11 months of age","Intervention":"Vaccination","Health condition":" DTP","":""}
+{"Title":"Evaluation of the immunogenicity and reactogenicity of a DTPa-HBV-IPV Combination vaccine co-administered with a Hib conjugate vaccine either as a single injection of a hexavalent combination or as two separate injections at 3, 5 and 11 months of age","Intervention":"Vaccination","Health condition":"DTP","":""}
 ,
 {"Title":"Potential interventions for preventing pneumonia among young children: lack of effect of antibiotic treatment for upper respiratory infections","Intervention":"Antibiotics","Health condition":"Pneumonia","":""}
 ,
@@ -1845,7 +1845,7 @@
 ,
 {"Title":"Randomized controlled trial of acellular Diptheria, pertussis and tetanus vaccines in southern Ghana","Intervention":"Vaccination","Health condition":"pertussis","":""}
 ,
-{"Title":"Randomized controlled trial of acellular Diptheria, pertussis and tetanus vaccines in southern Ghana","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Randomized controlled trial of acellular Diptheria, pertussis and tetanus vaccines in southern Ghana","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Impact of the implementation of a therapeutic guideline on the treatment of nosocomial pneumonia acquired in the intensive care unit of a university hospital","Intervention":"Therapeutic guidelines","Health condition":"HAP","":""}
 ,
@@ -1899,7 +1899,7 @@
 ,
 {"Title":"A new DTPw-HBV/Hib vaccine is immunogenic and safe when administered according to the EPI (Expanded Programme for Immunization) schedule and following hepatitis B vaccination at birth","Intervention":"Vaccination","Health condition":"tetanus","":""}
 ,
-{"Title":"A new DTPw-HBV/Hib vaccine is immunogenic and safe when administered according to the EPI (Expanded Programme for Immunization) schedule and following hepatitis B vaccination at birth","Intervention":"Vaccination","Health condition":" DTP","":""}
+{"Title":"A new DTPw-HBV/Hib vaccine is immunogenic and safe when administered according to the EPI (Expanded Programme for Immunization) schedule and following hepatitis B vaccination at birth","Intervention":"Vaccination","Health condition":"DTP","":""}
 ,
 {"Title":"Immunogenicity and safety of a varicella vaccine (Okavax) and a trivalent measles, mumps, and rubella vaccine (Trimovax) administered concomitantly in healthy Filipino children 12-24 months old","Intervention":"Vaccination","Health condition":"measles","":""}
 ,
@@ -1989,7 +1989,7 @@
 ,
 {"Title":"Potency tests of Diptheria, tetanus and combined vaccines. Suggestion for a simplified potency assay","Intervention":"Vaccination","Health condition":"tetanus","":""}
 ,
-{"Title":"Potency tests of Diptheria, tetanus and combined vaccines. Suggestion for a simplified potency assay","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Potency tests of Diptheria, tetanus and combined vaccines. Suggestion for a simplified potency assay","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"[Continuous versus intermittent cefepime infusion in critical care. Preliminary results]. [French]","Intervention":"Antibiotics","Health condition":"Pneumonia","":""}
 ,
@@ -2017,7 +2017,7 @@
 ,
 {"Title":"Incidences of vaccine-preventable Haemophilus influenzae type b pneumonia and meningitis in Indonesian children: hamlet-randomised vaccine-probe trial","Intervention":"Vaccination","Health condition":"Meningitis","":""}
 ,
-{"Title":"Incidences of vaccine-preventable Haemophilus influenzae type b pneumonia and meningitis in Indonesian children: hamlet-randomised vaccine-probe trial","Intervention":"Vaccination","Health condition":" HIB","":""}
+{"Title":"Incidences of vaccine-preventable Haemophilus influenzae type b pneumonia and meningitis in Indonesian children: hamlet-randomised vaccine-probe trial","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"Increased carriage of resistant non-pneumococcal alpha-hemolytic streptococci after antibiotic therapy","Intervention":"Antibiotics","Health condition":"Otitis Media","":""}
 ,
@@ -2105,7 +2105,7 @@
 ,
 {"Title":"Streptococcus pneumoniae capsular polysaccharide-Diptheria toxoid conjugate vaccine is immunogenic in early infancy and able to induce immunologic memory","Intervention":"Vaccination","Health condition":"strep pneumoniae","":""}
 ,
-{"Title":"Streptococcus pneumoniae capsular polysaccharide-Diptheria toxoid conjugate vaccine is immunogenic in early infancy and able to induce immunologic memory","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Streptococcus pneumoniae capsular polysaccharide-Diptheria toxoid conjugate vaccine is immunogenic in early infancy and able to induce immunologic memory","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Antibody responses and persistence in the two years after immunization with two acellular vaccines and one whole-cell vaccine against pertussis","Intervention":"Vaccination","Health condition":"pertussis","":""}
 ,
@@ -2113,13 +2113,13 @@
 ,
 {"Title":"Intranasal vaccination against Diptheria and tetanus in human subjects","Intervention":"Vaccination","Health condition":"tetanus","":""}
 ,
-{"Title":"Intranasal vaccination against Diptheria and tetanus in human subjects","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Intranasal vaccination against Diptheria and tetanus in human subjects","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Vitamin A supplementation in infectious diseases: a meta-analysis","Intervention":"Vitamin A","Health condition":"ARI","":""}
 ,
 {"Title":"Efficacy and safety of ciprofloxacin in patients with respiratory infections in comparison with amoxycillin","Intervention":"Antibiotic vs antibiotic","Health condition":"ARI","":""}
 ,
-{"Title":"Maternal immunization with the capsular polysaccharide vaccine for Haemophilus influenzae type b","Intervention":"Vaccination","Health condition":" HIB","":""}
+{"Title":"Maternal immunization with the capsular polysaccharide vaccine for Haemophilus influenzae type b","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"Safety and immunogenicity of acellular pertussis vaccine combined with Diptheria and tetanus toxoids in 17- to 24-month-old children","Intervention":"Vaccination","Health condition":"tetanus","":""}
 ,
@@ -2127,7 +2127,7 @@
 ,
 {"Title":"Safety and immunogenicity of acellular pertussis vaccine combined with Diptheria and tetanus toxoids in 17- to 24-month-old children","Intervention":"Vaccination","Health condition":"pertussis","":""}
 ,
-{"Title":"Rifampin alone and in combination with trimethoprim in chemoprophylaxis for infections due to Haemophilus influenzae type b","Intervention":"Antibiotics","Health condition":" HIB","":""}
+{"Title":"Rifampin alone and in combination with trimethoprim in chemoprophylaxis for infections due to Haemophilus influenzae type b","Intervention":"Antibiotics","Health condition":"HiB","":""}
 ,
 {"Title":"Immunogenicity of new virosome influenza vaccine in elderly people","Intervention":"Vaccination","Health condition":"Influenza","":""}
 ,
@@ -2243,7 +2243,7 @@
 ,
 {"Title":"Randomized, single-blinded comparative study of the efficacy of amoxicillin (40 mg/kg/day) versus standard-dose penicillin V in the treatment of group A streptococcal pharyngitis in children","Intervention":"Antibiotic vs antibiotic","Health condition":"Pharyngitis","":""}
 ,
-{"Title":"The results of the registration clinical trials of the Act-Hib vaccine manufactured by the firm of Pasteur Merieux Connaught, France. [Russian]","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"The results of the registration clinical trials of the Act-Hib vaccine manufactured by the firm of Pasteur Merieux Connaught, France. [Russian]","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"[Efficacy of the immunostimulant Broncho-Vaxom]. [German]","Intervention":"Immunostimulator","Health condition":"ARI","":""}
 ,
@@ -2305,9 +2305,9 @@
 ,
 {"Title":"Tube associated otorrhea in children with recurrent acute otitis media; results of a prospective randomized study on bacteriology and topical treatment with or without systemic antibiotics","Intervention":"Antibiotics","Health condition":"Otitis Media","":""}
 ,
-{"Title":"Differences in the immunogenicity of three Haemophilus influenzae type b conjugate vaccines in infants","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"Differences in the immunogenicity of three Haemophilus influenzae type b conjugate vaccines in infants","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
-{"Title":"Effect of carrier protein priming on antibody responses to Haemophilus influenzae type b conjugate vaccines in infants","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"Effect of carrier protein priming on antibody responses to Haemophilus influenzae type b conjugate vaccines in infants","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"Immunogenicity of an investigational quadrivalent Neisseria meningitidis-Diptheria toxoid conjugate vaccine in 2-year old children","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
@@ -2351,27 +2351,27 @@
 ,
 {"Title":"Randomized double-blind trial of the comparative efficacy and safety of cefpodoxime proxetil and cefaclor in the treatment of acute community-acquired pneumonia","Intervention":"Antibiotic vs antibiotic","Health condition":"CAP","":""}
 ,
-{"Title":"Duration of rifampin chemoprophylaxis for contacts of patients infected with Haemophilus influenzae type B","Intervention":"Antibiotics","Health condition":" HiB","":""}
+{"Title":"Duration of rifampin chemoprophylaxis for contacts of patients infected with Haemophilus influenzae type B","Intervention":"Antibiotics","Health condition":"HiB","":""}
 ,
 {"Title":"Single-dose intramuscular ceftriaxone for acute otitis media in children. [see comments.]","Intervention":"Antibiotics","Health condition":"Otitis Media","":""}
 ,
 {"Title":"Mucosal [SIgA] and serum [IgG] immunologic responses in the community after a single intra-nasal immunization with a new inactivated trivalent influenza vaccine","Intervention":"Vaccination","Health condition":"Influenza","":""}
 ,
-{"Title":"Enhanced antibody responses in infants given different sequences of heterogeneous Haemophilus influenzae type b conjugate vaccines","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"Enhanced antibody responses in infants given different sequences of heterogeneous Haemophilus influenzae type b conjugate vaccines","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
-{"Title":"Immunogenicity of Haemophilus influenzae type b tetanus toxoid conjugate vaccine in young infants. The Kaiser-UCLA Vaccine Study Group.","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"Immunogenicity of Haemophilus influenzae type b tetanus toxoid conjugate vaccine in young infants. The Kaiser-UCLA Vaccine Study Group.","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
-{"Title":"Factors influencing immunogenicity and safety of two Haemophilus influenzae type b polysaccharide vaccines in children 18 and 24 months of age","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"Factors influencing immunogenicity and safety of two Haemophilus influenzae type b polysaccharide vaccines in children 18 and 24 months of age","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"Immunogenicity of a Haemophilus influenzae type b-tetanus toxoid conjugate vaccine when mixed with a Diptheria-tetanus-acellular pertussis-hepatitis B combination vaccine","Intervention":"Vaccination","Health condition":"Tetanus","":""}
 ,
-{"Title":"Immunogenicity of a Haemophilus influenzae type b-tetanus toxoid conjugate vaccine when mixed with a Diptheria-tetanus-acellular pertussis-hepatitis B combination vaccine","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"Immunogenicity of a Haemophilus influenzae type b-tetanus toxoid conjugate vaccine when mixed with a Diptheria-tetanus-acellular pertussis-hepatitis B combination vaccine","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"Interchangeability of 2 Diptheria-tetanus-acellular pertussis vaccines in infancy","Intervention":"Vaccination","Health condition":"Tetanus","":""}
 ,
 {"Title":"Interchangeability of 2 Diptheria-tetanus-acellular pertussis vaccines in infancy","Intervention":"Vaccination","Health condition":"pertussis","":""}
 ,
-{"Title":"Interchangeability of 2 Diptheria-tetanus-acellular pertussis vaccines in infancy","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Interchangeability of 2 Diptheria-tetanus-acellular pertussis vaccines in infancy","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Diffuse panbronchiolitis: follow-up CT examination","Intervention":"Antibiotics","Health condition":"Bronchiolitis","":""}
 ,
@@ -2379,7 +2379,7 @@
 ,
 {"Title":"Ampicillin dosage in bacterial meningitis with special reference to Haemophilus influenzae","Intervention":"Antibiotics","Health condition":"Meningitis","":""}
 ,
-{"Title":"Ampicillin dosage in bacterial meningitis with special reference to Haemophilus influenzae","Intervention":"Antibiotics","Health condition":" HIB","":""}
+{"Title":"Ampicillin dosage in bacterial meningitis with special reference to Haemophilus influenzae","Intervention":"Antibiotics","Health condition":"HiB","":""}
 ,
 {"Title":"Lack of an association between acute gastroenteritis, acute respiratory infections and malaria in young Gambian children","Intervention":"Antiprotozoal","Health condition":"ARI","":""}
 ,
@@ -2393,7 +2393,7 @@
 ,
 {"Title":"No increased risk for invasive bacterial infection found following Diptheria-tetanus-pertussis immunization","Intervention":"Vaccination","Health condition":"Tetanus","":""}
 ,
-{"Title":"No increased risk for invasive bacterial infection found following Diptheria-tetanus-pertussis immunization","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"No increased risk for invasive bacterial infection found following Diptheria-tetanus-pertussis immunization","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"The comparative characteristics of the safety, immunogenic activity and prophylactic potency of the adult and children types of live influenza vaccine in schoolchildren aged 7-14 years. [Russian]","Intervention":"Vaccination","Health condition":"Influenza","":""}
 ,
@@ -2413,7 +2413,7 @@
 ,
 {"Title":"Combined reduced-antigen-content Diptheria-tetanus-acellular pertussis and polio vaccine (dTpa-IPV) for booster vaccination of adults","Intervention":"Vaccination","Health condition":"Tetanus","":""}
 ,
-{"Title":"Combined reduced-antigen-content Diptheria-tetanus-acellular pertussis and polio vaccine (dTpa-IPV) for booster vaccination of adults","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Combined reduced-antigen-content Diptheria-tetanus-acellular pertussis and polio vaccine (dTpa-IPV) for booster vaccination of adults","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Once-daily, 3-day azithromycin versus a three-times-daily, 10-day course of co-amoxiclav in the treatment of adults with lower respiratory tract infections: results of a randomized, double-blind comparative study","Intervention":"Antibiotic vs antibiotic","Health condition":"LRTI","":""}
 ,
@@ -2493,7 +2493,7 @@
 ,
 {"Title":"Safety and immunogenicity of a pentavalent vaccine compared with separate administration of licensed equivalent vaccines in US infants and toddlers and persistence of antibodies before a preschool booster dose: a randomized, clinical trial","Intervention":"vaccination","Health condition":"HiB","":""}
 ,
-{"Title":"Safety and immunogenicity of a pentavalent vaccine compared with separate administration of licensed equivalent vaccines in US infants and toddlers and persistence of antibodies before a preschool booster dose: a randomized, clinical trial","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Safety and immunogenicity of a pentavalent vaccine compared with separate administration of licensed equivalent vaccines in US infants and toddlers and persistence of antibodies before a preschool booster dose: a randomized, clinical trial","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Efficacy and Tolerance of Amoxicillin (AMOX) 30mg/kg bid versus Amoxicillin 15 mg/kg tid in the Treatment of Acute Otitis Media (AOM) in Children","Intervention":"Antibiotics","Health condition":"Otitis Media","":""}
 ,
@@ -2561,7 +2561,7 @@
 ,
 {"Title":"The effect of prophylaxis with chloroquine and proguanil on delayed-type hypersensitivity and antibody production following vaccination with Diptheria, tetanus, polio, and pneumococcal vaccines","Intervention":"Vaccination","Health condition":"Tetanus","":""}
 ,
-{"Title":"The effect of prophylaxis with chloroquine and proguanil on delayed-type hypersensitivity and antibody production following vaccination with Diptheria, tetanus, polio, and pneumococcal vaccines","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"The effect of prophylaxis with chloroquine and proguanil on delayed-type hypersensitivity and antibody production following vaccination with Diptheria, tetanus, polio, and pneumococcal vaccines","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Trimethoprim or cotrimoxazole in pneumonia","Intervention":"Antibiotic vs antibiotic","Health condition":"Pneumonia","":""}
 ,
@@ -2605,7 +2605,7 @@
 ,
 {"Title":"Poor immune responses to a birth dose of Diptheria, tetanus, and acellular pertussis vaccine.[see comment]","Intervention":"Vaccination","Health condition":"Tetanus","":""}
 ,
-{"Title":"Poor immune responses to a birth dose of Diptheria, tetanus, and acellular pertussis vaccine.[see comment]","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Poor immune responses to a birth dose of Diptheria, tetanus, and acellular pertussis vaccine.[see comment]","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"[Influenza vaccination in dialysis patients]. [German]","Intervention":"Vaccination","Health condition":"Influenza","":""}
 ,
@@ -2643,9 +2643,9 @@
 ,
 {"Title":"Use of lidocaine-prilocaine patch to decrease intramuscular injection pain does not adversely affect the antibody response to Diptheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae type b conjugate and hepatitis B vaccines in infants from birth to six months of age","Intervention":"Vaccination","Health condition":"Tetanus","":""}
 ,
-{"Title":"Use of lidocaine-prilocaine patch to decrease intramuscular injection pain does not adversely affect the antibody response to Diptheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae type b conjugate and hepatitis B vaccines in infants from birth to six months of age","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Use of lidocaine-prilocaine patch to decrease intramuscular injection pain does not adversely affect the antibody response to Diptheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae type b conjugate and hepatitis B vaccines in infants from birth to six months of age","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
-{"Title":"Simultaneous administration of meningococcal C conjugate vaccine and Diptheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae type b conjugate vaccine in children: a randomized double-blind study","Intervention":"vaccination","Health condition":" Hib","":""}
+{"Title":"Simultaneous administration of meningococcal C conjugate vaccine and Diptheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae type b conjugate vaccine in children: a randomized double-blind study","Intervention":"vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"Simultaneous administration of meningococcal C conjugate vaccine and Diptheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae type b conjugate vaccine in children: a randomized double-blind study","Intervention":"vaccination","Health condition":"polio","":""}
 ,
@@ -2717,7 +2717,7 @@
 ,
 {"Title":"Safety and immunogenicity of a measles-mumps-rubella-varicella vaccine given as a second dose in children up to six years of age","Intervention":"Vaccination","Health condition":"measles","":""}
 ,
-{"Title":"Safety and immunogenicity of Haemophilus influenzae-tetanus toxoid conjugate vaccine given separately or in combination with a three-component acellular pertussis vaccine combined with Diptheria and tetanus toxoids and inactivated poliovirus vaccine for the first four doses","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"Safety and immunogenicity of Haemophilus influenzae-tetanus toxoid conjugate vaccine given separately or in combination with a three-component acellular pertussis vaccine combined with Diptheria and tetanus toxoids and inactivated poliovirus vaccine for the first four doses","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"Effect of inactivated poliovirus vaccine on the antibody response to Bordetella pertussis antigens when combined with Diptheria-pertussis-tetanus vaccine","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
@@ -2737,7 +2737,7 @@
 ,
 {"Title":"Safety and immunogenicity of two formulations of a hexavalent Diptheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae conjugate-hepatitis B vaccine in 15 to 18-month-old children","Intervention":"vaccination","Health condition":"HBV","":""}
 ,
-{"Title":"Safety and immunogenicity of two formulations of a hexavalent Diptheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae conjugate-hepatitis B vaccine in 15 to 18-month-old children","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Safety and immunogenicity of two formulations of a hexavalent Diptheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae conjugate-hepatitis B vaccine in 15 to 18-month-old children","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Phase 1 first-in-human studies of the reactogenicity and immunogenicity of a recombinant meningococcal NspA vaccine in healthy adults","Intervention":"Vaccination","Health condition":"meningococcal","":""}
 ,
@@ -2759,7 +2759,7 @@
 ,
 {"Title":"A multicenter, prospective, open-label, non-comparative study to evaluate the immunogenicity and tolerance of a new, fully liquid pentavalent vaccine (DTwP-HepB-Hib vaccine)","Intervention":"Vaccination","Health condition":"Tetanus","":""}
 ,
-{"Title":"A multicenter, prospective, open-label, non-comparative study to evaluate the immunogenicity and tolerance of a new, fully liquid pentavalent vaccine (DTwP-HepB-Hib vaccine)","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"A multicenter, prospective, open-label, non-comparative study to evaluate the immunogenicity and tolerance of a new, fully liquid pentavalent vaccine (DTwP-HepB-Hib vaccine)","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Phase I, randomized, controlled trial to study the reactogenicity and immunogenicity of a nasal, inactivated trivalent influenza virus vaccine in healthy adults","Intervention":"Vaccination","Health condition":"Influenza","":""}
 ,
@@ -2775,7 +2775,7 @@
 ,
 {"Title":"Safety and immunogenicity of a hexavalent Diptheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae b conjugate-hepatitis B vaccine at 2, 3, 4, and 12-14 months of age","Intervention":"Vaccination","Health condition":"tetanus","":""}
 ,
-{"Title":"Safety and immunogenicity of a hexavalent Diptheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae b conjugate-hepatitis B vaccine at 2, 3, 4, and 12-14 months of age","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Safety and immunogenicity of a hexavalent Diptheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae b conjugate-hepatitis B vaccine at 2, 3, 4, and 12-14 months of age","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Interchangeability of two Diptheria and tetanus toxoids, acellular pertussis, inactivated poliovirus, Haemophilus influenzae type b conjugate vaccines as a fourth dose in 15-20-month-old toddlers","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
@@ -2871,7 +2871,7 @@
 ,
 {"Title":"Clinical signs associated with Triple Antigen (DTP) vaccination in infants","Intervention":"vaccination","Health condition":"pertussis","":""}
 ,
-{"Title":"Clinical signs associated with Triple Antigen (DTP) vaccination in infants","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Clinical signs associated with Triple Antigen (DTP) vaccination in infants","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Safety and efficacy of azithromycin in the treatment of community-acquired pneumonia in children","Intervention":"Antibiotics","Health condition":"CAP","":""}
 ,
@@ -3179,7 +3179,7 @@
 ,
 {"Title":"Reactogenicity and immunogenicity profiles of a novel pentavalent Diptheria-tetanus-whole cell pertussis-hepatitis B and Haemophilus influenzae type B vaccine: a randomized dose-ranging trial of the Hib tetanus-conjugate content","Intervention":"Vaccination","Health condition":"tetanus","":""}
 ,
-{"Title":"Reactogenicity and immunogenicity profiles of a novel pentavalent Diptheria-tetanus-whole cell pertussis-hepatitis B and Haemophilus influenzae type B vaccine: a randomized dose-ranging trial of the Hib tetanus-conjugate content","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Reactogenicity and immunogenicity profiles of a novel pentavalent Diptheria-tetanus-whole cell pertussis-hepatitis B and Haemophilus influenzae type B vaccine: a randomized dose-ranging trial of the Hib tetanus-conjugate content","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Hospitalized patients with community-acquired pneumonia in Hong Kong: a randomized study comparing imipenem/cilastatin and ceftazidime","Intervention":"Antibiotic vs antibiotic","Health condition":"CAP","":""}
 ,
@@ -3245,9 +3245,9 @@
 ,
 {"Title":"Immunogenicity of Haemophilus influenzae type b polysaccharide-tetanus toxoid conjugate vaccine in infants","Intervention":"Vaccination","Health condition":"tetanus","":""}
 ,
-{"Title":"Immunogenicity of Haemophilus influenzae type b polysaccharide-tetanus toxoid conjugate vaccine in infants","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"Immunogenicity of Haemophilus influenzae type b polysaccharide-tetanus toxoid conjugate vaccine in infants","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
-{"Title":"Immunogenicity of four Haemophilus influenzae type b conjugate vaccines in 17- to 19-month-old children","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"Immunogenicity of four Haemophilus influenzae type b conjugate vaccines in 17- to 19-month-old children","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"Pharmacokinetics and tolerability of oseltamivir combined with probenecid","Intervention":"uricosuric","Health condition":"influenza","":""}
 ,
@@ -3277,7 +3277,7 @@
 ,
 {"Title":"Priming effect, immunogenicity and safety of an Haemophilus influenzae type b-tetanus toxoid conjugate (PRP-T) and Diptheria-tetanus-acellular pertussis (DTaP) combination vaccine administered to infants in Belgium and Turkey","Intervention":"Vaccination","Health condition":"tetanus","":""}
 ,
-{"Title":"Priming effect, immunogenicity and safety of an Haemophilus influenzae type b-tetanus toxoid conjugate (PRP-T) and Diptheria-tetanus-acellular pertussis (DTaP) combination vaccine administered to infants in Belgium and Turkey","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"Priming effect, immunogenicity and safety of an Haemophilus influenzae type b-tetanus toxoid conjugate (PRP-T) and Diptheria-tetanus-acellular pertussis (DTaP) combination vaccine administered to infants in Belgium and Turkey","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"Safety and immunogenicity of an Haemophilus influenzae type b-tetanus toxoid conjugate (PRP-T) and Diptheria-tetanus-pertussis (DTP) combination vaccine administered in a dual-chamber syringe to infants in Belgium and Chile","Intervention":"Vaccination","Health condition":"pertussis","":""}
 ,
@@ -3285,7 +3285,7 @@
 ,
 {"Title":"Safety and immunogenicity of an Haemophilus influenzae type b-tetanus toxoid conjugate (PRP-T) and Diptheria-tetanus-pertussis (DTP) combination vaccine administered in a dual-chamber syringe to infants in Belgium and Chile","Intervention":"Vaccination","Health condition":"tetanus","":""}
 ,
-{"Title":"Safety and immunogenicity of an Haemophilus influenzae type b-tetanus toxoid conjugate (PRP-T) and Diptheria-tetanus-pertussis (DTP) combination vaccine administered in a dual-chamber syringe to infants in Belgium and Chile","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"Safety and immunogenicity of an Haemophilus influenzae type b-tetanus toxoid conjugate (PRP-T) and Diptheria-tetanus-pertussis (DTP) combination vaccine administered in a dual-chamber syringe to infants in Belgium and Chile","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"The effect of reconstitution of an Haemophilus influenzae type b- tetanus toxoid conjugate (PRP-T)vaccine on the immune responses to a Diptheria-tetanus-whole cell pertussis (DTwP) vaccine: A five-year follow- up","Intervention":"Vaccination","Health condition":"pertussis","":""}
 ,
@@ -3293,7 +3293,7 @@
 ,
 {"Title":"The effect of reconstitution of an Haemophilus influenzae type b- tetanus toxoid conjugate (PRP-T)vaccine on the immune responses to a Diptheria-tetanus-whole cell pertussis (DTwP) vaccine: A five-year follow- up","Intervention":"Vaccination","Health condition":"tetanus","":""}
 ,
-{"Title":"The effect of reconstitution of an Haemophilus influenzae type b- tetanus toxoid conjugate (PRP-T)vaccine on the immune responses to a Diptheria-tetanus-whole cell pertussis (DTwP) vaccine: A five-year follow- up","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"The effect of reconstitution of an Haemophilus influenzae type b- tetanus toxoid conjugate (PRP-T)vaccine on the immune responses to a Diptheria-tetanus-whole cell pertussis (DTwP) vaccine: A five-year follow- up","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"Treatment of acute lower respiratory tract infections in the general practice. A double-blind, randomized study with amoxicillin versus roxithromycin","Intervention":"Antibiotic vs antibiotic","Health condition":"LRTI","":""}
 ,
@@ -3381,7 +3381,7 @@
 ,
 {"Title":"Immunogenicity and safety of Haemophilus influenzae type b conjugate vaccine (HibTITER) and a combination vaccine of Diptheria, tetanus, pertussis and HibTITER (TETRAMUNE) in two-month-old infants","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
-{"Title":"Immunogenicity and safety of Haemophilus influenzae type b conjugate vaccine (HibTITER) and a combination vaccine of Diptheria, tetanus, pertussis and HibTITER (TETRAMUNE) in two-month-old infants","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"Immunogenicity and safety of Haemophilus influenzae type b conjugate vaccine (HibTITER) and a combination vaccine of Diptheria, tetanus, pertussis and HibTITER (TETRAMUNE) in two-month-old infants","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"Parental knowledge about antibiotic use: results of a cluster-randomized, multicommunity intervention","Intervention":"Educational newsletters re Antibiotics","Health condition":"ARI","":""}
 ,
@@ -3487,7 +3487,7 @@
 ,
 {"Title":"Acetaminophen prophylaxis of adverse reactions following vaccination of infants with Diptheria-pertussis-tetanus toxoids-polio vaccine","Intervention":"Vaccination","Health condition":"pertussis","":""}
 ,
-{"Title":"Acetaminophen prophylaxis of adverse reactions following vaccination of infants with Diptheria-pertussis-tetanus toxoids-polio vaccine","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Acetaminophen prophylaxis of adverse reactions following vaccination of infants with Diptheria-pertussis-tetanus toxoids-polio vaccine","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Order of vaccine injection and infant pain response","Intervention":"vaccination","Health condition":"HiB","":""}
 ,
@@ -3507,7 +3507,7 @@
 ,
 {"Title":"Immunogenicity and safety of a liquid combination of DT-PRP-T vs lyophilized PRP-T reconstituted with DTP","Intervention":"Vaccination","Health condition":"tetanus","":""}
 ,
-{"Title":"Immunogenicity and safety of a liquid combination of DT-PRP-T vs lyophilized PRP-T reconstituted with DTP","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Immunogenicity and safety of a liquid combination of DT-PRP-T vs lyophilized PRP-T reconstituted with DTP","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Augmenting immune responses to varicella zoster virus in older adults: a randomized, controlled trial of Tai Chi","Intervention":"Tai Chi","Health condition":"varicella zoster","":""}
 ,
@@ -3577,7 +3577,7 @@
 ,
 {"Title":"Safety and immunogenicity of a combined DTPa-IPV vaccine administered as a booster from 4 years of age: a review","Intervention":"Vaccination","Health condition":"tetanus","":""}
 ,
-{"Title":"Safety and immunogenicity of a combined DTPa-IPV vaccine administered as a booster from 4 years of age: a review","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Safety and immunogenicity of a combined DTPa-IPV vaccine administered as a booster from 4 years of age: a review","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Randomized single-blind trial in general practice comparing the efficacy and palatability of two cough linctus preparations, 'Pholcolix' and 'Actifed' Compound, in children with acute cough","Intervention":"Nasal decongestant","Health condition":"cough","":""}
 ,
@@ -3593,7 +3593,7 @@
 ,
 {"Title":"Haemophilus influenzae Diptheria protein conjugate immunization after therapy in splenectomized patients with Hodgkin disease","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
-{"Title":"Haemophilus influenzae Diptheria protein conjugate immunization after therapy in splenectomized patients with Hodgkin disease","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"Haemophilus influenzae Diptheria protein conjugate immunization after therapy in splenectomized patients with Hodgkin disease","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"A randomized, crossover design study of the pharmacology of extended-spectrum fluoroquinolones for pneumococcal infections","Intervention":"Antibiotics","Health condition":"pneumococcal","":""}
 ,
@@ -3739,7 +3739,7 @@
 ,
 {"Title":"Randomized comparison of amphotericin B deoxycholate dissolved in dextrose or Intralipid for the treatment of AIDS-associated cryptococcal meningitis","Intervention":"antifungal","Health condition":"Meningitis","":""}
 ,
-{"Title":"Interchangeability of conjugated Haemophilus influenzae type b vaccines in infants. [see comments.]","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"Interchangeability of conjugated Haemophilus influenzae type b vaccines in infants. [see comments.]","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"Group C meningococcal vaccine trial: safety, immunogenicity and parents' views of participation","Intervention":"Vaccination","Health condition":"meningococcal","":""}
 ,
@@ -3871,7 +3871,7 @@
 ,
 {"Title":"Beneficial effects of dexamethasone in children with pneumococcal meningitis","Intervention":"corticosteroid","Health condition":"Meningitis","":""}
 ,
-{"Title":"Effect of aluminum adjuvants on safety and immunogenicity of Haemophilus influenzae type b-CRM197 conjugate vaccine","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"Effect of aluminum adjuvants on safety and immunogenicity of Haemophilus influenzae type b-CRM197 conjugate vaccine","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"Prevention of influenza A/USSR/77 (H1N1): An evaluation of the side effects and efficacy of amantadine in recruits at Fort Sam Houston","Intervention":"Antivirals","Health condition":"Influenza","":""}
 ,
@@ -3879,7 +3879,7 @@
 ,
 {"Title":"Linezolid for the treatment of methicillin-resistant Staph aureus infections in children","Intervention":"Antibiotics","Health condition":"Staph aureus","":""}
 ,
-{"Title":"Effect of Haemophilus influenzae infection and moxalactam on platelet function in children","Intervention":"Antibiotics","Health condition":" HIB","":""}
+{"Title":"Effect of Haemophilus influenzae infection and moxalactam on platelet function in children","Intervention":"Antibiotics","Health condition":"HiB","":""}
 ,
 {"Title":"Linezolid versus vancomycin for treatment of resistant Gram-positive infections in children","Intervention":"Antibiotic vs antibiotic","Health condition":"HAP","":""}
 ,
@@ -4169,7 +4169,7 @@
 ,
 {"Title":"Antibody titers eight months after three doses of a five-valent pneumococcal conjugate vaccine in HIV and non-HIV-infected children less than two years of age","Intervention":"Vaccination","Health condition":"pneumococcoal","":""}
 ,
-{"Title":"Safety and immunogenicity of a new Haemophilus influenzae type b vaccine in infants under one year of age","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"Safety and immunogenicity of a new Haemophilus influenzae type b vaccine in infants under one year of age","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"Dexamethasone therapy for bacterial meningitis: Better never than late?","Intervention":"corticosteroid","Health condition":"Meningitis","":""}
 ,
@@ -4217,7 +4217,7 @@
 ,
 {"Title":"Evaluation of a Diptheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae type b vaccine given concurrently with meningococcal group C conjugate vaccine at 2, 3 and 4 months of age.[see comment]","Intervention":"vaccination","Health condition":"meningococcal","":""}
 ,
-{"Title":"Evaluation of a Diptheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae type b vaccine given concurrently with meningococcal group C conjugate vaccine at 2, 3 and 4 months of age.[see comment]","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Evaluation of a Diptheria-tetanus-acellular pertussis-inactivated poliovirus-Haemophilus influenzae type b vaccine given concurrently with meningococcal group C conjugate vaccine at 2, 3 and 4 months of age.[see comment]","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Longterm treatment with brompheniramine and phenylpropanolamine in recurrent otitis media--a double-blind study","Intervention":"decongestant","Health condition":"OM","":""}
 ,
@@ -4423,7 +4423,7 @@
 ,
 {"Title":"Reactogenicity and immunogenicity of reduced antigen content Diptheria-tetanus-acellular pertussis vaccine (dTpa) administered as a booster to 4-6 year-old children primed with four doses of whole-cell pertussis vaccine","Intervention":"Vaccination","Health condition":"tetanus","":""}
 ,
-{"Title":"Reactogenicity and immunogenicity of reduced antigen content Diptheria-tetanus-acellular pertussis vaccine (dTpa) administered as a booster to 4-6 year-old children primed with four doses of whole-cell pertussis vaccine","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Reactogenicity and immunogenicity of reduced antigen content Diptheria-tetanus-acellular pertussis vaccine (dTpa) administered as a booster to 4-6 year-old children primed with four doses of whole-cell pertussis vaccine","Intervention":"Vaccination","Health condition":"Diptheria","":""}
 ,
 {"Title":"Effectiveness of peroral and intranasal immunization of school children with live allantoic influenza vaccine- and comparative study","Intervention":"Vaccination","Health condition":"Influenza","":""}
 ,
@@ -4509,13 +4509,13 @@
 ,
 {"Title":"Antitussive effect of guaifenesin in young adults with natural colds. Objective and subjective assessment","Intervention":"expectorants","Health condition":"Common cold","":""}
 ,
-{"Title":"Effect of probiotics on vaccine antibody responses in infancy--a randomized placebo-controlled double-blind trial","Intervention":"probiotics","Health condition":" Diptheria","":""}
+{"Title":"Effect of probiotics on vaccine antibody responses in infancy--a randomized placebo-controlled double-blind trial","Intervention":"probiotics","Health condition":"Diptheria","":""}
 ,
 {"Title":"A randomized, controlled study of Kan Jang versus amantadine in the treatment of influenza in Volgograd","Intervention":"Antivirals","Health condition":"Influenza","":""}
 ,
 {"Title":"Clinical trial of live measles vaccine given alone and live vaccine preceded by killed vaccine. Fourth report to the medical research council by the measles sub-committee of the committee on development of vaccines and immunisation procedures","Intervention":"Vaccination","Health condition":"measles","":""}
 ,
-{"Title":"Immunogenicity and tolerance of H. influenzae type b, tetanus toxoid conjugate vaccine given concurrently or in combination","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"Immunogenicity and tolerance of H. influenzae type b, tetanus toxoid conjugate vaccine given concurrently or in combination","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"Randomized, double-blind, controlled trial of pneumococcal vaccination in renal transplant recipients","Intervention":"Vaccination","Health condition":"pneumococcoal","":""}
 ,
@@ -4549,7 +4549,7 @@
 ,
 {"Title":"Adequate immune response to tetanus toxoid and failure of vitamin A and E supplementation to enhance antibody response in healthy children","Intervention":"vitamin A","Health condition":"tetanus","":""}
 ,
-{"Title":"Adequate immune response to tetanus toxoid and failure of vitamin A and E supplementation to enhance antibody response in healthy children","Intervention":"Vaccination","Health condition":" tetanus","":""}
+{"Title":"Adequate immune response to tetanus toxoid and failure of vitamin A and E supplementation to enhance antibody response in healthy children","Intervention":"Vaccination","Health condition":"tetanus","":""}
 ,
 {"Title":"A randomized double-blind, placebo-controlled trial of dexamethasone and racemic epinephrine in the treatment of croup","Intervention":"adrenaline","Health condition":"croup","":""}
 ,
@@ -4605,7 +4605,7 @@
 ,
 {"Title":"Oropharyngeal decontamination with gentamicin for long-term ventilated patients on stress ulcer prophylaxis with sucralfate?","Intervention":"Antibiotics","Health condition":"HAP","":""}
 ,
-{"Title":"Large scale, postlicensure, selective vaccination of Chilean infants with PRP-T conjugate vaccine: Practicality and effectiveness in preventing invasive Haemophilus influenzae type b infections","Intervention":"vaccination","Health condition":" HIB","":""}
+{"Title":"Large scale, postlicensure, selective vaccination of Chilean infants with PRP-T conjugate vaccine: Practicality and effectiveness in preventing invasive Haemophilus influenzae type b infections","Intervention":"vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"Clinical acceptability and immunogenicity of a pentavalent parenteral combination vaccine containing Diptheria, tetanus, acellular pertussis, inactivated poliomyelitis and Haemophilus influenzae type b conjugate antigens in two-, four- and six-month-old Chilean infants","Intervention":"vaccination","Health condition":"HiB","":""}
 ,
@@ -4615,7 +4615,7 @@
 ,
 {"Title":"Clinical acceptability and immunogenicity of a pentavalent parenteral combination vaccine containing Diptheria, tetanus, acellular pertussis, inactivated poliomyelitis and Haemophilus influenzae type b conjugate antigens in two-, four- and six-month-old Chilean infants","Intervention":"vaccination","Health condition":"tetanus","":""}
 ,
-{"Title":"Clinical acceptability and immunogenicity of a pentavalent parenteral combination vaccine containing Diptheria, tetanus, acellular pertussis, inactivated poliomyelitis and Haemophilus influenzae type b conjugate antigens in two-, four- and six-month-old Chilean infants","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Clinical acceptability and immunogenicity of a pentavalent parenteral combination vaccine containing Diptheria, tetanus, acellular pertussis, inactivated poliomyelitis and Haemophilus influenzae type b conjugate antigens in two-, four- and six-month-old Chilean infants","Intervention":"Vaccination","Health condition":"Diptheria","":""}
 ,
 {"Title":"Immunological priming of one dose of inactivated hepatitis A vaccine given during the first year of life in presence of maternal antibodies","Intervention":"Vaccination","Health condition":"Hepatitis A ","":""}
 ,
@@ -4637,11 +4637,11 @@
 ,
 {"Title":"[Benzathine penicillin G and miocamycin in the treatment of children with streptococcal pharyngitis: a controlled therapeutic trial]. [Spanish]","Intervention":"Antibiotic vs antibiotic","Health condition":"Pharyngitis","":""}
 ,
-{"Title":"Economisation of vaccination against Haemophilus influenzae type b: a randomised trial of immunogenicity of fractional-dose and two-dose regimens. [see comments.]","Intervention":"vaccination","Health condition":" HIB","":""}
+{"Title":"Economisation of vaccination against Haemophilus influenzae type b: a randomised trial of immunogenicity of fractional-dose and two-dose regimens. [see comments.]","Intervention":"vaccination","Health condition":"HiB","":""}
 ,
-{"Title":"Data management for an efficacy trial of a vaccine in the Gambia","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"Data management for an efficacy trial of a vaccine in the Gambia","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
-{"Title":"A new Diptheria prophylactic (NAFT)","Intervention":"QUERY","Health condition":" Diptheria","":""}
+{"Title":"A new Diptheria prophylactic (NAFT)","Intervention":"QUERY","Health condition":"Diptheria","":""}
 ,
 {"Title":"Changes in bronchial reactivity after administration of live attenuated influenza virus","Intervention":"Vaccination","Health condition":"Influenza","":""}
 ,
@@ -4679,7 +4679,7 @@
 ,
 {"Title":"Randomised feasibility trial of pre-exposure rabies vaccination with DTP-IPV in infants","Intervention":"vaccination","Health condition":"polio","":""}
 ,
-{"Title":"Randomised feasibility trial of pre-exposure rabies vaccination with DTP-IPV in infants","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Randomised feasibility trial of pre-exposure rabies vaccination with DTP-IPV in infants","Intervention":"Vaccination","Health condition":"Diptheria","":""}
 ,
 {"Title":"Grippaler Infekt: Zink halbiert Erkaltungsdauer","Intervention":"zinc","Health condition":"Influenza","":""}
 ,
@@ -4695,13 +4695,13 @@
 ,
 {"Title":"An adolescent-adult formulation tetanus and diptheria toxoids adsorbed combined with acellular pertussis vaccine has comparable immunogenicity but less reactogenicity in children 4-6 years of age than a pediatric formulation acellular pertussis vaccine and Diptheria and tetanus toxoids adsorbed combined with inactivated poliomyelitis vaccine","Intervention":"vaccination","Health condition":"pertussis","":""}
 ,
-{"Title":"An adolescent-adult formulation tetanus and diptheria toxoids adsorbed combined with acellular pertussis vaccine has comparable immunogenicity but less reactogenicity in children 4-6 years of age than a pediatric formulation acellular pertussis vaccine and Diptheria and tetanus toxoids adsorbed combined with inactivated poliomyelitis vaccine","Intervention":"Vaccination","Health condition":" tetanus","":""}
+{"Title":"An adolescent-adult formulation tetanus and diptheria toxoids adsorbed combined with acellular pertussis vaccine has comparable immunogenicity but less reactogenicity in children 4-6 years of age than a pediatric formulation acellular pertussis vaccine and Diptheria and tetanus toxoids adsorbed combined with inactivated poliomyelitis vaccine","Intervention":"Vaccination","Health condition":"tetanus","":""}
 ,
 {"Title":"Racemic epinephrine compared to salbutamol in hospitalized young children with bronchiolitis; a randomized controlled clinical trial [ISRCTN46561076]","Intervention":"bronchodilators","Health condition":"bronchiolitis","":""}
 ,
 {"Title":"Racemic epinephrine compared to salbutamol in hospitalized young children with bronchiolitis; a randomized controlled clinical trial [ISRCTN46561076]","Intervention":"adrenaline","Health condition":"bronchiolitis","":""}
 ,
-{"Title":"Safety and immunogenicity of Haemophilus influenzae type b-tetanus toxoid conjugate, presented in a dual-chamber syringe with Diptheria-tetanus-pertussis and inactivated poliomyelitis combination vaccine","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"Safety and immunogenicity of Haemophilus influenzae type b-tetanus toxoid conjugate, presented in a dual-chamber syringe with Diptheria-tetanus-pertussis and inactivated poliomyelitis combination vaccine","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"Prophylaxis of upper respiratory infections in children treated with oral penicillin","Intervention":"Antibiotics","Health condition":"URTI","":""}
 ,
@@ -4719,7 +4719,7 @@
 ,
 {"Title":"The immunogenicity and safety of a new combined Diptheria, tetanus and poliomyelitis booster vaccine (Td-eIPV)","Intervention":"vaccination","Health condition":"polio","":""}
 ,
-{"Title":"The immunogenicity and safety of a new combined Diptheria, tetanus and poliomyelitis booster vaccine (Td-eIPV)","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"The immunogenicity and safety of a new combined Diptheria, tetanus and poliomyelitis booster vaccine (Td-eIPV)","Intervention":"Vaccination","Health condition":"Diptheria","":""}
 ,
 {"Title":"Fluconazole compared with amphotericin B plus flucytosine for cryptococcal meningitis in AIDS. A randomized trial. [see comments.]","Intervention":"Antifungal","Health condition":"Meningitis","":""}
 ,
@@ -4873,7 +4873,7 @@
 ,
 {"Title":"Safety and immunogenicity of two Haemophilus influenzae type b polysaccharide-tetanus toxoid conjugate vaccines (PRP-T) given with Diptheria-tetanus-pertussis vaccine to young Papua New Guinean children","Intervention":"vaccination","Health condition":"tetanus","":""}
 ,
-{"Title":"Safety and immunogenicity of two Haemophilus influenzae type b polysaccharide-tetanus toxoid conjugate vaccines (PRP-T) given with Diptheria-tetanus-pertussis vaccine to young Papua New Guinean children","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"Safety and immunogenicity of two Haemophilus influenzae type b polysaccharide-tetanus toxoid conjugate vaccines (PRP-T) given with Diptheria-tetanus-pertussis vaccine to young Papua New Guinean children","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"Effect of pneumococcal vaccine on morbidity from acute lower respiratory tract infections in Papua New Guinean children","Intervention":"vaccination","Health condition":"LRTI","":""}
 ,
@@ -4887,7 +4887,7 @@
 ,
 {"Title":"Immunogenicity of Haemophilus influenzae type b polysaccharide-Neisseria meningitidis outer membrane protein conjugate vaccine in 2- to 6-month-old infants","Intervention":"vaccination","Health condition":"neisseria meningitidis","":""}
 ,
-{"Title":"Immunogenicity of Haemophilus influenzae type b polysaccharide-Neisseria meningitidis outer membrane protein conjugate vaccine in 2- to 6-month-old infants","Intervention":"vaccination","Health condition":" HiB","":""}
+{"Title":"Immunogenicity of Haemophilus influenzae type b polysaccharide-Neisseria meningitidis outer membrane protein conjugate vaccine in 2- to 6-month-old infants","Intervention":"vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"A double-blind comparison of RU-41740 ('Biostim') and placebo in recurrent upper respiratory tract infections in children with cystic fibrosis","Intervention":"GCS-F","Health condition":"URTI","":""}
 ,
@@ -4907,11 +4907,11 @@
 ,
 {"Title":"Safety and immunogenicity of Haemophilus influenzae type b polysaccharide-Diptheria toxoid conjugate vaccine (PRP-D) in infants","Intervention":"vaccination","Health condition":"Diptheria","":""}
 ,
-{"Title":"Safety and immunogenicity of Haemophilus influenzae type b polysaccharide-Diptheria toxoid conjugate vaccine (PRP-D) in infants","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"Safety and immunogenicity of Haemophilus influenzae type b polysaccharide-Diptheria toxoid conjugate vaccine (PRP-D) in infants","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"Safety and immunogenicity of Haemophilus influenzae type b-polysaccharide Diptheria toxoid conjugate vaccine in infants 9 to 15 months of age","Intervention":"vaccination","Health condition":"Diptheria","":""}
 ,
-{"Title":"Safety and immunogenicity of Haemophilus influenzae type b-polysaccharide Diptheria toxoid conjugate vaccine in infants 9 to 15 months of age","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"Safety and immunogenicity of Haemophilus influenzae type b-polysaccharide Diptheria toxoid conjugate vaccine in infants 9 to 15 months of age","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"Treatment of hemophilus influenzae meningitis: Comparison of Aureomycin along versus Aureomycin, Streptomycin, and Gantrisin","Intervention":"Antibiotic vs antibiotic","Health condition":"Meningitis","":""}
 ,
@@ -4967,7 +4967,7 @@
 ,
 {"Title":"Monovalent inactivated A/New Jersey/8/76 (Hsw1N1) vaccine in healthy children aged three to five years","Intervention":"vaccination","Health condition":"Influenza","":""}
 ,
-{"Title":"Defining the burden of pneumonia in children preventable by vaccination against Haemophilus influenzae type b","Intervention":"vaccination","Health condition":" HiB","":""}
+{"Title":"Defining the burden of pneumonia in children preventable by vaccination against Haemophilus influenzae type b","Intervention":"vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"Cimetidine in the treatment of herpes zoster","Intervention":"H2 antagonist","Health condition":"herpes zoster","":""}
 ,
@@ -5083,7 +5083,7 @@
 ,
 {"Title":"Effect of neonatal immunization with Diptheria and tetanus toxoids on antibody responses to Haemophilus influenzae type b conjugate vaccines","Intervention":"vaccination","Health condition":"HiB","":""}
 ,
-{"Title":"Effect of neonatal immunization with Diptheria and tetanus toxoids on antibody responses to Haemophilus influenzae type b conjugate vaccines","Intervention":"vaccination","Health condition":" Diptheria","":""}
+{"Title":"Effect of neonatal immunization with Diptheria and tetanus toxoids on antibody responses to Haemophilus influenzae type b conjugate vaccines","Intervention":"vaccination","Health condition":"Diptheria","":""}
 ,
 {"Title":"The safety and immunogenicity of a quadrivalent measles, mumps, rubella and varicella vaccine in healthy children: a study of manufacturing consistency and persistence of antibody","Intervention":"vaccination","Health condition":"varicella","":""}
 ,
@@ -5105,7 +5105,7 @@
 ,
 {"Title":"[Vitamin C and the common cold]. [Swedish]","Intervention":"vitamin C","Health condition":"Common cold","":""}
 ,
-{"Title":"Primary vaccination of infants against hepatitis B can be completed using a combined hexavalent Diptheria-tetanus-acellular pertussis-hepatitis B-inactivated poliomyelitis-Haemophilus influenzae type B vaccine","Intervention":"Vaccination","Health condition":" HBV","":""}
+{"Title":"Primary vaccination of infants against hepatitis B can be completed using a combined hexavalent Diptheria-tetanus-acellular pertussis-hepatitis B-inactivated poliomyelitis-Haemophilus influenzae type B vaccine","Intervention":"Vaccination","Health condition":"HBV","":""}
 ,
 {"Title":"Risk factors for breakthrough varicella in healthy children","Intervention":"Vaccination","Health condition":"varicella zoster","":""}
 ,
@@ -5129,7 +5129,7 @@
 ,
 {"Title":"Safety and immunogenicity of a Diptheria, tetanus, and acellular pertussis-inactivated poliovirus vaccine/Haemophilus influenzae type b combination vaccine administered to Taiwanese infants at 2, 4, and 6 months of age","Intervention":"vaccination","Health condition":"HiB","":""}
 ,
-{"Title":"Safety and immunogenicity of a Diptheria, tetanus, and acellular pertussis-inactivated poliovirus vaccine/Haemophilus influenzae type b combination vaccine administered to Taiwanese infants at 2, 4, and 6 months of age","Intervention":"vaccination","Health condition":" Diptheria","":""}
+{"Title":"Safety and immunogenicity of a Diptheria, tetanus, and acellular pertussis-inactivated poliovirus vaccine/Haemophilus influenzae type b combination vaccine administered to Taiwanese infants at 2, 4, and 6 months of age","Intervention":"vaccination","Health condition":"Diptheria","":""}
 ,
 {"Title":"A fully liquid Diptheria-tetanus-five component acellular pertussis-inactivated poliomyelitis--Haemophilus influenzae type b conjugate vaccine: immunogenicity and safety of primary vaccination in Taiwanese infants","Intervention":"vaccination","Health condition":"tetanus","":""}
 ,
@@ -5139,7 +5139,7 @@
 ,
 {"Title":"A fully liquid Diptheria-tetanus-five component acellular pertussis-inactivated poliomyelitis--Haemophilus influenzae type b conjugate vaccine: immunogenicity and safety of primary vaccination in Taiwanese infants","Intervention":"vaccination","Health condition":"HiB","":""}
 ,
-{"Title":"A fully liquid Diptheria-tetanus-five component acellular pertussis-inactivated poliomyelitis--Haemophilus influenzae type b conjugate vaccine: immunogenicity and safety of primary vaccination in Taiwanese infants","Intervention":"vaccination","Health condition":" Diptheria","":""}
+{"Title":"A fully liquid Diptheria-tetanus-five component acellular pertussis-inactivated poliomyelitis--Haemophilus influenzae type b conjugate vaccine: immunogenicity and safety of primary vaccination in Taiwanese infants","Intervention":"vaccination","Health condition":"Diptheria","":""}
 ,
 {"Title":"An open-label, randomized comparison of levofloxacin and amoxicillin/clavulanate plus clarithromycin for the treatment of hospitalized patients with community-acquired pneumonia","Intervention":"Antibiotic vs antibiotic","Health condition":"CAP","":""}
 ,
@@ -5173,7 +5173,7 @@
 ,
 {"Title":"EMLA cream and oral glucose for immunization pain in 3-month-old infants","Intervention":"oral glucose","Health condition":"pertussis","":""}
 ,
-{"Title":"EMLA cream and oral glucose for immunization pain in 3-month-old infants","Intervention":"vaccination","Health condition":" Diptheria","":""}
+{"Title":"EMLA cream and oral glucose for immunization pain in 3-month-old infants","Intervention":"vaccination","Health condition":"Diptheria","":""}
 ,
 {"Title":"Pepsin-treated human gamma globulin in bacterial infections. A randomized study in patients with septicaemia and pneumonia","Intervention":"Immunoglobulin","Health condition":"Pneumonia","":""}
 ,
@@ -5257,7 +5257,7 @@
 ,
 {"Title":"Longitudinal study of adverse reactions following Diptheria-tetanus-pertussis vaccine in infancy","Intervention":"vaccination","Health condition":"tetanus","":""}
 ,
-{"Title":"Longitudinal study of adverse reactions following Diptheria-tetanus-pertussis vaccine in infancy","Intervention":"vaccination","Health condition":" Diptheria","":""}
+{"Title":"Longitudinal study of adverse reactions following Diptheria-tetanus-pertussis vaccine in infancy","Intervention":"vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Efficacy of virucidal nasal tissues in interrupting familial transmission of respiratory agents. A field trial in Tecumseh, Michigan","Intervention":"virucidal nasal tissue","Health condition":"influenza","":""}
 ,
@@ -5301,7 +5301,7 @@
 ,
 {"Title":"The effectiveness and safety of ceftriaxone to cefetamet pivoxil vs ceftazidime to cefetamet pivoxil vs cefoperazone to cefetamet pivoxil in the treatment of community-acquired pneumonia in adult Filipinos","Intervention":"Antibiotic vs antibiotic","Health condition":"CAP","":""}
 ,
-{"Title":"Safety and immunogenicity of haemophilus influenzae type B polysaccharide or conjugate vaccines in an elderly adult population","Intervention":"Vaccination","Health condition":" HiB","":""}
+{"Title":"Safety and immunogenicity of haemophilus influenzae type B polysaccharide or conjugate vaccines in an elderly adult population","Intervention":"Vaccination","Health condition":"HiB","":""}
 ,
 {"Title":"[Ambulatory treatment of acute pneumonia in children, with benzatin penicillin in single dose: an efficient alternative]","Intervention":"Antibiotics","Health condition":"Pneumonia","":""}
 ,
@@ -5569,7 +5569,7 @@
 ,
 {"Title":"Antibody persistence against Diptheria, tetanus, pertussis, poliomyelitis and Haemophilus influenzae type b (Hib) in 5-6-year-old children after primary vaccination and first booster with a pentavalent combined acellular pertussis vaccine: immunogenicity and tolerance of a tetravalent combined acellular pertussis vaccine given as a second booster","Intervention":"vaccination","Health condition":"tetanus","":""}
 ,
-{"Title":"Antibody persistence against Diptheria, tetanus, pertussis, poliomyelitis and Haemophilus influenzae type b (Hib) in 5-6-year-old children after primary vaccination and first booster with a pentavalent combined acellular pertussis vaccine: immunogenicity and tolerance of a tetravalent combined acellular pertussis vaccine given as a second booster","Intervention":"vaccination","Health condition":" Diptheria","":""}
+{"Title":"Antibody persistence against Diptheria, tetanus, pertussis, poliomyelitis and Haemophilus influenzae type b (Hib) in 5-6-year-old children after primary vaccination and first booster with a pentavalent combined acellular pertussis vaccine: immunogenicity and tolerance of a tetravalent combined acellular pertussis vaccine given as a second booster","Intervention":"vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"[Tolerance of acellular pertussis vaccine booster injection in 15-20-month-old children]. [French]","Intervention":"Vaccination","Health condition":"pertussis","":""}
 ,
@@ -5651,7 +5651,7 @@
 ,
 {"Title":"Comparison of the reactogenicity and immunogenicity of a combined Diptheria, tetanus, acellular pertussis, hepatitis B, inactivated polio (DTPa-HBV-IPV) vaccine, mixed with the Haemophilus influenzae type b (Hib)","Intervention":"vaccination","Health condition":"tetanus","":""}
 ,
-{"Title":"Comparison of the reactogenicity and immunogenicity of a combined Diptheria, tetanus, acellular pertussis, hepatitis B, inactivated polio (DTPa-HBV-IPV) vaccine, mixed with the Haemophilus influenzae type b (Hib)","Intervention":"vaccination","Health condition":" Diptheria","":""}
+{"Title":"Comparison of the reactogenicity and immunogenicity of a combined Diptheria, tetanus, acellular pertussis, hepatitis B, inactivated polio (DTPa-HBV-IPV) vaccine, mixed with the Haemophilus influenzae type b (Hib)","Intervention":"vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Efficacy and tolerability of brodimoprim and roxithromycin in acute sinusitis of bacterial origin in adults","Intervention":"Antibiotic vs antibiotic","Health condition":"sinusitis","":""}
 ,
@@ -5685,7 +5685,7 @@
 ,
 {"Title":"Assessment of the immunogenicity and reactogenicity of a quadrivalent Diptheria, tetanus, acellular pertussis and hepatitis B (DTPa-HBV) vaccine administered in a single injection with Haemophilus influenzae type b conjugate vaccine, to infants at 2, 4 and 6 months of age","Intervention":"vaccination","Health condition":"HBV","":""}
 ,
-{"Title":"Assessment of the immunogenicity and reactogenicity of a quadrivalent Diptheria, tetanus, acellular pertussis and hepatitis B (DTPa-HBV) vaccine administered in a single injection with Haemophilus influenzae type b conjugate vaccine, to infants at 2, 4 and 6 months of age","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Assessment of the immunogenicity and reactogenicity of a quadrivalent Diptheria, tetanus, acellular pertussis and hepatitis B (DTPa-HBV) vaccine administered in a single injection with Haemophilus influenzae type b conjugate vaccine, to infants at 2, 4 and 6 months of age","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Comparison of the safety and immunogenicity of acellular (BIKEN) and whole-cell pertussis vaccines in 15- to 20-month-old children [published erratum appears in Am J Dis Child 1993 Jun;147(6):626]","Intervention":"Vaccination","Health condition":"pertussis","":""}
 ,
@@ -5721,7 +5721,7 @@
 ,
 {"Title":"The role of aluminium for adverse reactions and immunogenicity of Diptheria-tetanus booster vaccine","Intervention":"aluminium","Health condition":"tetanus","":""}
 ,
-{"Title":"The role of aluminium for adverse reactions and immunogenicity of Diptheria-tetanus booster vaccine","Intervention":"vaccination","Health condition":" Diptheria","":""}
+{"Title":"The role of aluminium for adverse reactions and immunogenicity of Diptheria-tetanus booster vaccine","Intervention":"vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Evidence of tinidazole interference in the oropharyngeal inflammatory process during infectious mononucleosis","Intervention":"antifungal","Health condition":"IM","":""}
 ,
@@ -5755,7 +5755,7 @@
 ,
 {"Title":"Ultrasound examination of extensive limb swelling reactions after Diptheria-tetanus-acellular pertussis or reduced-antigen content Diptheria-tetanus-acellular pertussis immunization in preschool-aged children","Intervention":"vaccination","Health condition":"pertussis","":""}
 ,
-{"Title":"Ultrasound examination of extensive limb swelling reactions after Diptheria-tetanus-acellular pertussis or reduced-antigen content Diptheria-tetanus-acellular pertussis immunization in preschool-aged children","Intervention":"vaccination","Health condition":" Diptheria","":""}
+{"Title":"Ultrasound examination of extensive limb swelling reactions after Diptheria-tetanus-acellular pertussis or reduced-antigen content Diptheria-tetanus-acellular pertussis immunization in preschool-aged children","Intervention":"vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Study of some phagocyte membrane receptors in patients receiving intravenous polyvalent immunoglobulins as adjunct treatment for nosocomial pneumonia","Intervention":"immunoglobulin","Health condition":"HAP","":""}
 ,
@@ -5791,7 +5791,7 @@
 ,
 {"Title":"Immunogenicity, reactogenicity and consistency of production of a Brazilian combined vaccine against Diptheria, tetanus, pertussis and Haemophilus influenzae type b","Intervention":"vaccination","Health condition":"HiB","":""}
 ,
-{"Title":"Immunogenicity, reactogenicity and consistency of production of a Brazilian combined vaccine against Diptheria, tetanus, pertussis and Haemophilus influenzae type b","Intervention":"vaccination","Health condition":" Diptheria","":""}
+{"Title":"Immunogenicity, reactogenicity and consistency of production of a Brazilian combined vaccine against Diptheria, tetanus, pertussis and Haemophilus influenzae type b","Intervention":"vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"The role of betamethasone in the treatment of acute exudative pharyngitis. [see comments.]","Intervention":"corticosteroid","Health condition":"Pharyngitis","":""}
 ,
@@ -5901,7 +5901,7 @@
 ,
 {"Title":"Clinical comparison of piperacillin and cefoxitin in patients with bacteriologically confirmed infections [published erratum appears in Antimicrob Agents Chemother 1986 Dec;30(6):966]","Intervention":"Antibiotic vs antibiotic","Health condition":"ARI","":""}
 ,
-{"Title":"Treatment of Diptheria carriers: benzathine penicillin, erythromycin, and clindamycin","Intervention":"Antibiotic vs antibiotic","Health condition":" Diptheria","":""}
+{"Title":"Treatment of Diptheria carriers: benzathine penicillin, erythromycin, and clindamycin","Intervention":"Antibiotic vs antibiotic","Health condition":"diptheria","":""}
 ,
 {"Title":"A randomized double blinded comparison of mezlocillin and ticarcillin for the treatment of respiratory infections","Intervention":"Antibiotic vs antibiotic","Health condition":"ARI","":""}
 ,
@@ -5951,7 +5951,7 @@
 ,
 {"Title":"Booster vaccination of adults with reduced-antigen-content Diptheria, Tetanus and pertussis vaccine: immunogenicity 5 years post-vaccination","Intervention":"vaccination","Health condition":"tetanus","":""}
 ,
-{"Title":"Booster vaccination of adults with reduced-antigen-content Diptheria, Tetanus and pertussis vaccine: immunogenicity 5 years post-vaccination","Intervention":"vaccination","Health condition":" Diptheria","":""}
+{"Title":"Booster vaccination of adults with reduced-antigen-content Diptheria, Tetanus and pertussis vaccine: immunogenicity 5 years post-vaccination","Intervention":"vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Effect on antibiotic prescribing of repeated clinical prompts to use a sore throat score: lessons from a failed community intervention study","Intervention":"Antibiotics","Health condition":"Pharyngitis","":""}
 ,
@@ -6073,7 +6073,7 @@
 ,
 {"Title":"Safety and immunogenicity of a primary course and booster dose of a combined Diptheria, tetanus, acellular pertussis, hepatitis B and inactivated poliovirus vaccine","Intervention":"vaccination","Health condition":"polio","":""}
 ,
-{"Title":"Safety and immunogenicity of a primary course and booster dose of a combined Diptheria, tetanus, acellular pertussis, hepatitis B and inactivated poliovirus vaccine","Intervention":"vaccination","Health condition":" Diptheria","":""}
+{"Title":"Safety and immunogenicity of a primary course and booster dose of a combined Diptheria, tetanus, acellular pertussis, hepatitis B and inactivated poliovirus vaccine","Intervention":"vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Salbutamol in the treatment of whooping cough","Intervention":"bronchodilator","Health condition":"pertussis","":""}
 ,
@@ -12531,7 +12531,7 @@
 ,
 {"Title":"Effect of CMV-immunoglobulins (cytotect biotest) prophylaxis on CMV pneumonia after lung transplantation","Intervention":"Immunoglobulins","Health condition":"Pneumonia","":""}
 ,
-{"Title":"Immunogenicity and reactogenicity of co-administered tetanus-Diptheria-acellular pertussis (Tdap) and tetravalent meningococcal conjugate (MCV4) vaccines compared to their separate administration","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Immunogenicity and reactogenicity of co-administered tetanus-Diptheria-acellular pertussis (Tdap) and tetravalent meningococcal conjugate (MCV4) vaccines compared to their separate administration","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"The efficacy of live attenuated and inactivated influenza vaccines in children as a function of time postvaccination","Intervention":"Vaccination","Health condition":"Influenza","":""}
 ,
@@ -12555,7 +12555,7 @@
 ,
 {"Title":"Acute respiratory infections in children. II A trial of polyvalent virus vaccine","Intervention":"Vaccination","Health condition":"ARI","":""}
 ,
-{"Title":"Clinical reactions and immunogenicity of the BIKEN acellular Diptheria and tetanus toxoids and pertussis vaccine in 4- through 6-year-old US children [published errata appear in Am J Dis Child 1992 Jul;146(7):802 and 1992 Sep;146(9):1084]","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Clinical reactions and immunogenicity of the BIKEN acellular Diptheria and tetanus toxoids and pertussis vaccine in 4- through 6-year-old US children [published errata appear in Am J Dis Child 1992 Jul;146(7):802 and 1992 Sep;146(9):1084]","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Comparison of a three-component acellular pertussis vaccine with a whole-cell pertussis vaccine in 15- through 20-month-old infants.","Intervention":"Vaccination","Health condition":"Pertussis","":""}
 ,
@@ -12985,7 +12985,7 @@
 ,
 {"Title":"The new DTPw-HBV-Hib combination vaccine can be used at the who schedule with a monovalent dose of hepatitis B vaccine at birth","Intervention":"Vaccination","Health condition":"pertussis","":""}
 ,
-{"Title":"The new DTPw-HBV-Hib combination vaccine can be used at the who schedule with a monovalent dose of hepatitis B vaccine at birth","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"The new DTPw-HBV-Hib combination vaccine can be used at the who schedule with a monovalent dose of hepatitis B vaccine at birth","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Control of whooping-cough in nurseries","Intervention":"Vaccination","Health condition":"Whooping cough","":""}
 ,
@@ -13375,7 +13375,7 @@
 ,
 {"Title":"Safety and immunogenicity of a combined Diptheria-tetanus-acellular pertussis-inactivated polio vaccine-Haemophilus influenzae type b vaccine administered at 2-4-6-13 or 3-5-12 months of age","Intervention":"vaccination","Health condition":"HiB","":""}
 ,
-{"Title":"Safety and immunogenicity of a combined Diptheria-tetanus-acellular pertussis-inactivated polio vaccine-Haemophilus influenzae type b vaccine administered at 2-4-6-13 or 3-5-12 months of age","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"Safety and immunogenicity of a combined Diptheria-tetanus-acellular pertussis-inactivated polio vaccine-Haemophilus influenzae type b vaccine administered at 2-4-6-13 or 3-5-12 months of age","Intervention":"Vaccination","Health condition":"Diptheria","":""}
 ,
 {"Title":"Effects of influenza vaccination of health-care workers on mortality of elderly people in long-term care: a randomised controlled trial. [see comments.]","Intervention":"Vaccination","Health condition":"influenza","":""}
 ,
@@ -13531,7 +13531,7 @@
 ,
 {"Title":"A comparison of immunogenicity and safety of indigenously developed liquid (DTwPHB-Hib) pentavalent combination vaccine (Shan 5) with Easyfive (liq) and TritanrixHB + Hiberix (lyo) in Indian infants administered according to the EPI schedule","Intervention":"vaccination","Health condition":"HiB","":""}
 ,
-{"Title":"A comparison of immunogenicity and safety of indigenously developed liquid (DTwPHB-Hib) pentavalent combination vaccine (Shan 5) with Easyfive (liq) and TritanrixHB + Hiberix (lyo) in Indian infants administered according to the EPI schedule","Intervention":"Vaccination","Health condition":" Diptheria","":""}
+{"Title":"A comparison of immunogenicity and safety of indigenously developed liquid (DTwPHB-Hib) pentavalent combination vaccine (Shan 5) with Easyfive (liq) and TritanrixHB + Hiberix (lyo) in Indian infants administered according to the EPI schedule","Intervention":"Vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Single-dose ceftriaxone versus 10 days of cefaclor for otitis media","Intervention":"Antibiotic vs antibiotic","Health condition":"OM","":""}
 ,
@@ -13725,7 +13725,7 @@
 ,
 {"Title":"Diptheria, tetanus and whole cell pertussis vaccine combined with hepatitis B vaccines: a comparison of two doses (10 microg and 5 microg)","Intervention":"vaccination","Health condition":"hepatitis","":""}
 ,
-{"Title":"Diptheria, tetanus and whole cell pertussis vaccine combined with hepatitis B vaccines: a comparison of two doses (10 microg and 5 microg)","Intervention":"vaccination","Health condition":" Diptheria","":""}
+{"Title":"Diptheria, tetanus and whole cell pertussis vaccine combined with hepatitis B vaccines: a comparison of two doses (10 microg and 5 microg)","Intervention":"vaccination","Health condition":"diptheria","":""}
 ,
 {"Title":"Immunogenicity and safety of intradermal influenza immunization at a reduced dose in healthy children","Intervention":"vaccination","Health condition":"influenza","":""}
 ,

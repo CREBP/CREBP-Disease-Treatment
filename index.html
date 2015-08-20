@@ -14,6 +14,7 @@ rect{
 </style>
 <body>
 <script src="bower_components/d3/d3.min.js"></script>
+<script src="bower_components/golden-colors/golden-colors.min.js"></script>
 <script src="assets/bipartite.js"></script>
 <script>
 var data =
@@ -157,7 +158,7 @@ var data =
   [ 'Antibiotics', 'ARI', 1 ] ];
 // }}}
 
-var width = 1100, height = 610, margin ={b:0, t:40, l:170, r:50};
+var width = 1100, height = 1000, margin ={b:0, t:40, l:170, r:50};
 
 var svg = d3.select("body")
 	.append("svg").attr('width',width).attr('height',(height+margin.b+margin.t))

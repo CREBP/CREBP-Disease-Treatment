@@ -1,0 +1,9 @@
+{
+  "name": "crebp-disease-treatment",
+  "version": "0.0.0",
+  "homepage": "http://crebp-sra.com",
+  "private": true,
+  "dependencies": {
+    "d3": "~3.5.6"
+  }
+}

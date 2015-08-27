@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "CREBP project to find the gaps in diseases/interventions",
   "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "gulp"
+  },
   "keywords": [
     "crebp",
     "disease",
@@ -18,5 +22,8 @@
     "gulp": "^3.9.0",
     "gulp-util": "^3.0.6",
     "lodash": "^3.10.1"
+  },
+  "devDependencies": {
+    "express": "^4.13.3"
   }
 }

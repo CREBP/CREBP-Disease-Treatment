@@ -92,11 +92,17 @@ gulp.task('build', function(next) {
 		})
 
 		// Format back into an array
+		.set('disguardedRcts', 0)
 		.parallel({
 			dataR: function(next) {
+				var self = this;
 				var data = [];
 				_.forEach(this.lookupR, function(relationship) {
 					if (!relationship.disease || !relationship.intervention) return;
+					if (relationship.value < 3) { // FILTER: Disguard any RCT link below this limit
+						self.disguardedRcts++;
+						return;
+					}
 					data.push([
 						relationship.disease,
 						relationship.intervention,
@@ -145,7 +151,9 @@ gulp.task('build', function(next) {
 					.uniq()
 					.value()
 					.length,
-				'interventions )'
+				'interventions,',
+				this.disguardedRcts,
+				'disguarded links)'
 			);
 
 			gutil.log(

@@ -61,7 +61,7 @@ gulp.task('build', function(next) {
 				this.rowsS.forEach(function(row) {
 					var key = row[1] + '-' + row[2];
 					if (lookup[key]) {
-						lookup.value++;
+						lookup[key].value++;
 					} else {
 						lookup[key] = {
 							disease: row[1],
@@ -78,7 +78,7 @@ gulp.task('build', function(next) {
 				this.rowsR.forEach(function(row) {
 					var key = row[1] + '-' + row[2];
 					if (lookup[key]) {
-						lookup.value++;
+						lookup[key].value++;
 					} else {
 						lookup[key] = {
 							disease: row[1],

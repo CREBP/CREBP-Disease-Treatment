@@ -1,0 +1,29 @@
+{
+  "name": "crebp-disease-treatment",
+  "version": "1.0.0",
+  "description": "CREBP project to find the gaps in diseases/interventions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "gulp"
+  },
+  "keywords": [
+    "crebp",
+    "disease",
+    "intervention",
+    "treatment"
+  ],
+  "author": "Matt Carter <matt_carter@bond.edu.au>",
+  "license": "MIT",
+  "dependencies": {
+    "async-chainable": "^1.7.14",
+    "csv-parse": "^1.0.0",
+    "csv-parser": "^1.7.0",
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6",
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {
+    "express": "^4.13.3"
+  }
+}

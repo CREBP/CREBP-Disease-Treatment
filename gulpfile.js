@@ -112,6 +112,7 @@ gulp.task('build', function(next) {
 				next(null, data);
 			},
 			dataS: function(next) {
+				var self = this;
 				var data = [];
 				_.forEach(this.lookupS, function(relationship) {
 					if (!relationship.disease || !relationship.intervention) return;
@@ -153,7 +154,7 @@ gulp.task('build', function(next) {
 					.length,
 				'interventions,',
 				this.disguardedRcts,
-				'disguarded links)'
+				' disguarded links)'
 			);
 
 			gutil.log(

@@ -104,8 +104,8 @@ gulp.task('build', function(next) {
 						return;
 					}
 					data.push([
-						relationship.disease,
 						relationship.intervention,
+						relationship.disease,
 						relationship.value,
 					]);
 				});
@@ -117,8 +117,8 @@ gulp.task('build', function(next) {
 				_.forEach(this.lookupS, function(relationship) {
 					if (!relationship.disease || !relationship.intervention) return;
 					data.push([
-						relationship.disease,
 						relationship.intervention,
+						relationship.disease,
 						relationship.value,
 					]);
 				});

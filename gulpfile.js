@@ -6,6 +6,11 @@ var gulp = require('gulp');
 var gutil = require('gulp-util');
 var util = require('util');
 
+var options = {
+	minRCT: 5, // FILTER: Disguard any RCT link below this limit
+};
+
+
 var paths = {
 	html: './index.html',
 	srsCsv: './data/sr-disease-interventions.csv',
@@ -64,8 +69,8 @@ gulp.task('build', function(next) {
 						lookup[key].value++;
 					} else {
 						lookup[key] = {
-							disease: row[1],
-							intervention: row[2],
+							disease: row[2],
+							intervention: row[1],
 							value: 1,
 						};
 					}
@@ -81,8 +86,8 @@ gulp.task('build', function(next) {
 						lookup[key].value++;
 					} else {
 						lookup[key] = {
-							disease: row[1],
-							intervention: row[2],
+							disease: row[2],
+							intervention: row[1],
 							value: 1,
 						};
 					}
@@ -99,7 +104,7 @@ gulp.task('build', function(next) {
 				var data = [];
 				_.forEach(this.lookupR, function(relationship) {
 					if (!relationship.disease || !relationship.intervention) return;
-					if (relationship.value < 3) { // FILTER: Disguard any RCT link below this limit
+					if (relationship.value < options.minRCT) { // FILTER: Disguard any RCT link below this limit
 						self.disguardedRcts++;
 						return;
 					}
@@ -125,6 +130,99 @@ gulp.task('build', function(next) {
 				next(null, data);
 			},
 		})
+
+		// Check for gaps in SR from RCT
+		.then(function(next) {
+			var self = this;
+			this.dataR.forEach(function(link) {
+				if (_.find(self.dataS, function(l) {
+					return l[0] == link[0] && l[1] == link[1];
+				}) === undefined) {
+					self.dataS.push([
+						link[0],
+						link[1],
+						0,
+					]);
+				}
+			});
+			next();
+		})
+
+		// Compile sort list of Interventions
+		.parallel({
+			sortOrderInt: function(next) {
+				var sortOrder = {};
+
+				this.dataR.forEach(function(link) {
+					if (!sortOrder[link[0]])
+						sortOrder[link[0]] = 0;
+					sortOrder[link[0]] += link[2];
+				});
+
+				next(null, sortOrder);
+			},
+			sortOrderDis: function(next) {
+				var sortOrder = {};
+
+				this.dataR.forEach(function(link) {
+					if (!sortOrder[link[1]])
+						sortOrder[link[1]] = 0;
+					sortOrder[link[1]] += link[2];
+				});
+
+				next(null, sortOrder);
+			},
+		})
+
+		// Sort array by RCT value
+		.parallel([
+			function(next) {
+				var self = this;
+				this.dataR.sort(function(a, b) {
+					var sortValueIntA = self.sortOrderInt[a[0]] || 0;
+					var sortValueIntB = self.sortOrderInt[b[0]] || 0;
+					var sortValueDisA = self.sortOrderDis[a[1]] || 0;
+					var sortValueDisB = self.sortOrderDis[b[1]] || 0;
+
+					if (sortValueIntA > sortValueIntB) {
+						return -1;
+					} else if (sortValueIntA < sortValueIntB) {
+						return 1;
+					} else if (sortValueDisA > sortValueDisB) {
+						return -1;
+					} else if (sortValueDisA < sortValueDisB) {
+						return 1;
+					} else {
+						return 0;
+					}
+				});
+				next();
+			},
+			function(next) {
+				var self = this;
+				this.dataS.sort(function(a, b) {
+					var sortValueIntA = self.sortOrderInt[a[0]] || 0;
+					var sortValueIntB = self.sortOrderInt[b[0]] || 0;
+					var sortValueDisA = self.sortOrderDis[a[1]] || 0;
+					var sortValueDisB = self.sortOrderDis[b[1]] || 0;
+
+					a[3] = sortValueIntA + '<=>' + sortValueIntB + '!' + sortValueDisA + '<=>' + sortValueDisB;
+
+					if (sortValueIntA > sortValueIntB) {
+						return -1;
+					} else if (sortValueIntA < sortValueIntB) {
+						return 1;
+					} else if (sortValueDisA > sortValueDisB) {
+						return -1;
+					} else if (sortValueDisA < sortValueDisB) {
+						return 1;
+					} else {
+						return 0;
+					}
+				});
+				next();
+			},
+		])
 
 		// Write file
 		.then(function(next) {

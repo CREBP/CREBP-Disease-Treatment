@@ -240,13 +240,13 @@ gulp.task('build', function(next) {
 				_.keys(this.lookupR).length,
 				'(',
 				_(this.lookupR)
-					.pluck('disease')
+					.map('disease')
 					.uniq()
 					.value()
 					.length,
 				'diseases,',
 				_(this.lookupR)
-					.pluck('intervention')
+					.map('intervention')
 					.uniq()
 					.value()
 					.length,
@@ -260,13 +260,13 @@ gulp.task('build', function(next) {
 				_.keys(this.lookupS).length,
 				'(',
 				_(this.lookupS)
-					.pluck('disease')
+					.map('disease')
 					.uniq()
 					.value()
 					.length,
 				'diseases,',
 				_(this.lookupS)
-					.pluck('intervention')
+					.map('intervention')
 					.uniq()
 					.value()
 					.length,

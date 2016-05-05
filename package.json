@@ -16,14 +16,14 @@
   "author": "Matt Carter <matt_carter@bond.edu.au>",
   "license": "MIT",
   "dependencies": {
-    "async-chainable": "^1.7.14",
-    "csv-parse": "^1.0.0",
-    "csv-parser": "^1.7.0",
-    "gulp": "^3.9.0",
-    "gulp-util": "^3.0.6",
-    "lodash": "^3.10.1"
+    "async-chainable": "^1.7.15",
+    "csv-parse": "^1.1.0",
+    "csv-parser": "^1.9.3",
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7",
+    "lodash": "^4.11.2"
   },
   "devDependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.4"
   }
 }

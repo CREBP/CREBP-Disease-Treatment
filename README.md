@@ -2,6 +2,8 @@ CREBP-Disease-Treatment
 =======================
 Research to find the gaps in Random Controlled Trials (RCTs) and Systematic Reviews (SRs).
 
+[See the generated diagram here](http://crebp.github.io/CREBP-Disease-Treatment).
+
 
 Installation
 ------------

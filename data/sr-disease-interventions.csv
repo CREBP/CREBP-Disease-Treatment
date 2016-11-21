@@ -12,7 +12,7 @@ Antibiotics for acute bronchitis,Antibiotic vs placebo,"Bronchitis, acute"
 Azithromycin for acute lower respiratory tract infections,Antibiotic vs placebo,"Bronchitis, acute"
 Antibiotics for clinically diagnosed acute rhinosinusitis in adults,Antibiotic vs placebo,Common cold
 Antibiotics for the common cold and acute purulent rhinitis,Antibiotic vs placebo,Common cold
-Short-course versus prolonged-course antibiotic therapy for hospital-acquired pneumonia in critically ill adults,Antibiotic vs placebo,HAP
+Short-course versus prolonged-course antibiotic therapy for hospital-acquired pneumonia in critically ill adults,Antibiotic vs placebo,Pneumonia
 Antibiotics for preventing complications in children with measles,Antibiotic vs placebo,Measles
 Antibiotic prophylaxis for preventing meningitis in patients with basilar skull fractures,Antibiotic vs placebo,Meningitis
 Antibiotics for preventing meningococcal infections,Antibiotic vs placebo,Meningitis
@@ -48,9 +48,6 @@ Acetylcysteine and carbocysteine for acute upper and lower respiratory tract inf
 Acetylcysteine and carbocysteine for acute upper and lower respiratory tract infections in paediatric patients without chronic broncho-pulmonary disease,Antitussive  / decongestant / expectorant / mucolytic,"Bronchitis, acute"
 Nasal decongestants for the common cold,Antitussive  / decongestant / expectorant / mucolytic,Common cold
 Over-the-counter (OTC) medications for acute cough in children and adults in ambulatory settings,Antitussive  / decongestant / expectorant / mucolytic,Cough
-Over-the-counter (OTC) medications for acute cough in children and adults in ambulatory settings,Antitussive  / decongestant / expectorant / mucolytic,Cough
-Over-the-counter (OTC) medications for acute cough in children and adults in ambulatory settings,Antitussive  / decongestant / expectorant / mucolytic,Cough
-Over-the-counter (OTC) medications to reduce cough as an adjunct to antibiotics for acute pneumonia in children and adults,Antitussive  / decongestant / expectorant / mucolytic,Cough
 Over-the-counter (OTC) medications to reduce cough as an adjunct to antibiotics for acute pneumonia in children and adults,Antitussive  / decongestant / expectorant / mucolytic,Cough
 "Decongestants, antihistamines and nasal irrigation for acute sinusitis in children",Antitussive  / decongestant / expectorant / mucolytic,Sinusitis
 Acyclovir for treating varicella in otherwise healthy children and adolescents,Antiviral,Herpes zoster
@@ -93,7 +90,7 @@ Rapid viral diagnosis for acute febrile respiratory illness in children in the E
 Rapid antigen detection test for group A streptococcus in children with pharyngitis,Diagnostic test,Pharyngitis / sore throat
 Clinical symptoms and signs for the diagnosis of Mycoplasma pneumoniae in children and adolescents with community-acquired pneumonia,Diagnostic test,Pneumonia
 Quantitative versus qualitative cultures of respiratory secretions for clinical outcomes in patients with ventilator-associated pneumonia,Diagnostic test,Pneumonia
-Biomarkers as point-of-care tests to guide prescription of antibiotics in patients with acute respiratory infections in primary care,Diagnostic tests,ARI non-specific
+Biomarkers as point-of-care tests to guide prescription of antibiotics in patients with acute respiratory infections in primary care,Diagnostic test,ARI non-specific
 Shared decision making for acute respiratory infections in primary care,Education / counselling,ARI non-specific
 Advising patients to increase fluid intake for treating acute respiratory infections,Fluid therapy,ARI non-specific
 Fluid therapy for acute bacterial meningitis,Fluid therapy,Meningitis
@@ -151,15 +148,18 @@ Vaccines for preventing influenza in the elderly,Vaccination,Influenza
 Post-exposure passive immunisation for preventing measles,Vaccination,Measles
 "Vaccines for measles, mumps and rubella in children",Vaccination,Measles
 Polysaccharide vaccines for preventing serogroup A meningococcal meningitis,Vaccination,Meningitis
+"Vaccines for measles, mumps and rubella in children",Vaccination,Mumps
 Influenza vaccines for preventing acute otitis media in infants and children,Vaccination,Otitis media
 Pneumococcal conjugate vaccines for preventing otitis media,Vaccination,Otitis media
 Acellular vaccines for preventing whooping cough in children,Vaccination,Pertussis
 "Combined DTP-HBV vaccine versus separately administered DTP and HBV vaccines for primary prevention of diphtheria, tetanus, pertussis, and hepatitis B",Vaccination,Pertussis
 "Combined DTP-HBV-HIB vaccine versus separately administered DTP-HBV and HIB vaccines for primary prevention of diphtheria, tetanus, pertussis, hepatitis B and Haemophilus influenzae B (HIB)",Vaccination,Pertussis
 Vaccination in pregnancy to prevent pertussis in early infancy,Vaccination,Pertussis
-Pneumococcal conjugate vaccines for preventing vaccine-type invasive pneumococcal disease and X-ray defined pneumonia in children less than two years of age,Vaccination,Pneumococcal
-Vaccines for preventing pneumococcal infection in adults,Vaccination,Pneumococcal
+Pneumococcal conjugate vaccines for preventing vaccine-type invasive pneumococcal disease and X-ray defined pneumonia in children less than two years of age,Vaccination,Pneumococcus
+Vaccines for preventing pneumococcal infection in adults,Vaccination,Pneumococcus
+Pneumococcal conjugate vaccines for preventing vaccine-type invasive pneumococcal disease and X-ray defined pneumonia in children less than two years of age,Vaccination,Pneumonia
 Post-exposure passive immunisation for preventing rubella and congenital rubella syndrome,Vaccination,Rubella
+"Vaccines for measles, mumps and rubella in children",Vaccination,Rubella
 "Combined DTP-HBV vaccine versus separately administered DTP and HBV vaccines for primary prevention of diphtheria, tetanus, pertussis, and hepatitis B",Vaccination,Tetanus
 "Combined DTP-HBV-HIB vaccine versus separately administered DTP-HBV and HIB vaccines for primary prevention of diphtheria, tetanus, pertussis, hepatitis B and Haemophilus influenzae B (HIB)",Vaccination,Tetanus
 Vitamin A for preventing acute lower respiratory tract infections in children up to seven years of age,Vitamin A,"Bronchitis, acute"
@@ -173,10 +173,3 @@ Zinc for the common cold,Zinc,Common cold
 Zinc supplements for preventing otitis media,Zinc,Otitis media
 Zinc supplementation as an adjunct to antibiotics in the treatment of pneumonia in children 2 to 59 months of age,Zinc,Pneumonia
 Zinc supplementation for the prevention of pneumonia in children aged 2 months to 59 months,Zinc,Pneumonia
-Vitamin C for preventing and treating pneumonia,Vitamin C,Pneumonia
-Vitamin C for preventing and treating the common cold,Vitamin C,Common cold
-Xylitol for preventing acute otitis media in children up to 12 years of age,Xylitol,Otitis media
-Zinc for the common cold,Zinc,Common cold
-Zinc supplementation as an adjunct to antibiotics in the treatment of pneumonia in children 2 to 59 months of age,Zinc,Pneumonia
-Zinc supplementation for the prevention of pneumonia in children aged 2 months to 59 months,Zinc,Pneumonia
-Zinc supplements for preventing otitis media,Zinc,Otitis media

@@ -7,7 +7,7 @@ var gutil = require('gulp-util');
 var util = require('util');
 
 var options = {
-	minRCT: 5, // FILTER: Disguard any RCT link below this limit
+	minRCT: 10, // FILTER: Disguard any RCT link below this limit
 };
 
 

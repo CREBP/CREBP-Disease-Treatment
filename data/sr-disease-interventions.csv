@@ -1,31 +1,139 @@
 Title,Intervention,Health condition
-Acupuncture for mumps in children,Acupuncture,Mumps
-Epinephrine for bronchiolitis,Adrenaline,Bronchiolitis
-Nebulized epinephrine for croup in children,Adrenaline,Croup
-Third generation cephalosporins versus conventional antibiotics for treating acute bacterial meningitis,Antibiotic vs antibiotic,Meningitis
 Antibiotic prophylaxis to reduce respiratory tract infections and mortality in adults receiving intensive care,Antibiotic vs placebo,ARI non-specific
 Antibiotics for preventing suppurative complications from undifferentiated acute respiratory infections in children under five years of age,Antibiotic vs placebo,ARI non-specific
 Delayed antibiotics for respiratory infections,Antibiotic vs placebo,ARI non-specific
+Acetylcysteine and carbocysteine for acute upper and lower respiratory tract infections in paediatric patients without chronic broncho-pulmonary disease,Antitussive,ARI non-specific
+Homeopathic remedies for preventing and treating acute respiratory tract infections in children,CAM,ARI non-specific
+Pelargonium sidoides extract for treating acute respiratory tract infections,CAM,ARI non-specific
+Rapid viral diagnosis for acute febrile respiratory illness in children in the Emergency Department,Diagnostic test,ARI non-specific
+Biomarkers as point-of-care tests to guide prescription of antibiotics in patients with acute respiratory infections in primary care,Diagnostic test,ARI non-specific
+Shared decision making for acute respiratory infections in primary care,Education,ARI non-specific
+Advising patients to increase fluid intake for treating acute respiratory infections,Fluid therapy,ARI non-specific
+Immunostimulants for preventing respiratory tract infection in children,Immunotherapy,ARI non-specific
+Physical interventions to interrupt or reduce the spread of respiratory viruses,Infection control,ARI non-specific
+Saline nasal irrigation for acute upper respiratory tract infections,Nasal Irrigation,ARI non-specific
+Exercise for acute respiratory infections,Physiotherapy,ARI non-specific
+Probiotics for preventing acute upper respiratory tract infections,Probiotic,ARI non-specific
+Procalcitonin to initiate or discontinue antibiotics in acute respiratory tract infections,Procalcitonin,ARI non-specific
+"Remediating buildings damaged by dampness and mould for preventing or reducing respiratory tract symptoms, infections and asthma",Public health,ARI non-specific
+Epinephrine for bronchiolitis,Adrenaline,Bronchiolitis
 Antibiotics for bronchiolitis in children,Antibiotic vs placebo,Bronchiolitis
 Macrolides for diffuse panbronchiolitis,Antibiotic vs placebo,Bronchiolitis
+Bronchodilators for bronchiolitis,Bronchodilator,Bronchiolitis
+Continuous positive airway pressure (CPAP) for acute bronchiolitis in children,CPAP,Bronchiolitis
+Glucocorticoids for acute viral bronchiolitis in infants and young children,Corticosteroid,Bronchiolitis
+Nebulised deoxyribonuclease for viral bronchiolitis in children younger than 24 months,Deoxyribonuclease,Bronchiolitis
+Heliox inhalation therapy for bronchiolitis in infants,Heliox,Bronchiolitis
+Nebulised hypertonic saline solution for acute bronchiolitis in infants,Humidification,Bronchiolitis
+Steam inhalation or humidified oxygen for acute bronchiolitis in children up to three years of age,Humidification,Bronchiolitis
+Leukotriene inhibitors for bronchiolitis in infants and young children,Leukotriene,Bronchiolitis
+High-flow nasal cannula therapy for infants with bronchiolitis,Oxygen therapy,Bronchiolitis
+Chest physiotherapy for acute bronchiolitis in paediatric patients between 0 and 24 months old,Physiotherapy,Bronchiolitis
+Surfactant therapy for bronchiolitis in critically ill infants,Surfactant,Bronchiolitis
 Antibiotics for acute bronchitis,Antibiotic vs placebo,"Bronchitis, acute"
 Azithromycin for acute lower respiratory tract infections,Antibiotic vs placebo,"Bronchitis, acute"
+Acetylcysteine and carbocysteine for acute upper and lower respiratory tract infections in paediatric patients without chronic broncho-pulmonary disease,Antitussive,"Bronchitis, acute"
+Beta2-agonists for acute bronchitis,Bronchodilator,"Bronchitis, acute"
+Chinese medicinal herbs for acute bronchitis,CAM,"Bronchitis, acute"
+Oxygen therapy for lower respiratory tract infections in children between 3 months and 15 years of age,Oxygen therapy,"Bronchitis, acute"
+Chest radiographs for acute lower respiratory tract infections,Radiography,"Bronchitis, acute"
+Haemophilus influenzae oral vaccination for preventing acute exacerbations of chronic bronchitis and chronic obstructive pulmonary disease,Vaccination,"Bronchitis, acute"
+Vitamin A for preventing acute lower respiratory tract infections in children up to seven years of age,Vitamin A,"Bronchitis, acute"
 Antibiotics for clinically diagnosed acute rhinosinusitis in adults,Antibiotic vs placebo,Common cold
 Antibiotics for the common cold and acute purulent rhinitis,Antibiotic vs placebo,Common cold
-Short-course versus prolonged-course antibiotic therapy for hospital-acquired pneumonia in critically ill adults,Antibiotic vs placebo,Pneumonia
+Intranasal ipratropium bromide for the common cold,Anticholinergic,Common cold
+Antihistamines for the common cold,Antihistamine,Common cold
+Oral antihistamine-decongestant-analgesic combinations for the common cold,Antihistamine,Common cold
+Nasal decongestants for the common cold,Antitussive,Common cold
+Chinese medicinal herbs for the common cold,CAM,Common cold
+Echinacea for preventing and treating the common cold,CAM,Common cold
+Garlic for the common cold,CAM,Common cold
+Corticosteroids for the common cold,Corticosteroid,Common cold
+"Heated, humidified air for the common cold",Humidification,Common cold
+Non-steroidal anti-inflammatory drugs for the common cold,NSAID,Common cold
+Acetaminophen (paracetamol) for the common cold in adults,Paracetamol,Common cold
+Vaccines for the common cold,Vaccination,Common cold
+Vitamin C for preventing and treating the common cold,Vitamin C,Common cold
+Zinc for the common cold,Zinc,Common cold
+Over-the-counter (OTC) medications for acute cough in children and adults in ambulatory settings,Antihistamine,Cough
+Symptomatic treatment of the cough in whooping cough,Antihistamine,Cough
+Over-the-counter (OTC) medications for acute cough in children and adults in ambulatory settings,Antitussive,Cough
+Over-the-counter (OTC) medications to reduce cough as an adjunct to antibiotics for acute pneumonia in children and adults,Antitussive,Cough
+Over-the-counter (OTC) medications for acute cough in children and adults in ambulatory settings,Bronchodilator,Cough
+Honey for acute cough in children,CAM,Cough
+Symptomatic treatment of the cough in whooping cough,Immunoglobulin,Cough
+Symptomatic treatment of the cough in whooping cough,NSAID,Cough
+Nebulized epinephrine for croup in children,Adrenaline,Croup
+Glucocorticoids for croup,Corticosteroid,Croup
+Heliox for croup in children,Heliox,Croup
+"Combined DTP-HBV-HIB vaccine versus separately administered DTP-HBV and HIB vaccines for primary prevention of diphtheria, tetanus, pertussis, hepatitis B and Haemophilus influenzae B (HIB)",Vaccination,Croup
+"Combined DTP-HBV vaccine versus separately administered DTP and HBV vaccines for primary prevention of diphtheria, tetanus, pertussis, and hepatitis B",Vaccination,Diptheria
+"Combined DTP-HBV-HIB vaccine versus separately administered DTP-HBV and HIB vaccines for primary prevention of diphtheria, tetanus, pertussis, hepatitis B and Haemophilus influenzae B (HIB)",Vaccination,Diptheria
+Surgical versus non-surgical management for pleural empyema,Surgery,Empyema
+"Combined DTP-HBV vaccine versus separately administered DTP and HBV vaccines for primary prevention of diphtheria, tetanus, pertussis, and hepatitis B",Vaccination,Hepatitis
+"Combined DTP-HBV-HIB vaccine versus separately administered DTP-HBV and HIB vaccines for primary prevention of diphtheria, tetanus, pertussis, hepatitis B and Haemophilus influenzae B (HIB)",Vaccination,Hepatitis
+Acyclovir for treating varicella in otherwise healthy children and adolescents,Antiviral,Herpes zoster
+Antiviral prophylaxis for varicella zoster in immunocompromised patients (excluding haematological malignancies),Antiviral,Herpes zoster
+Vaccines for post-exposure prophylaxis against varicella (chickenpox) in children and adults,Vaccination,Herpes zoster
+Vaccines for preventing herpes zoster in older adults,Vaccination,Herpes zoster
+Steroids for symptom control in infectious mononucleosis,Corticosteroid,Infectious mononucleosis
+Amantadine and rimantadine for influenza A in adults,Antiviral,Influenza
+Amantadine and rimantadine for influenza A in children and the elderly,Antiviral,Influenza
+Neuraminidase inhibitors for preventing and treating influenza in children (published trials only),Antiviral,Influenza
+Neuraminidase inhibitors for preventing and treating influenza in healthy adults and children,Antiviral,Influenza
+Chinese medicinal herbs for influenza,CAM,Influenza
+Homeopathic Oscillococcinum¨ for preventing and treating influenza and influenza-like illness,CAM,Influenza
+Corticosteroids as adjunctive therapy in the treatment of influenza,Corticosteroid,Influenza
+Statins for influenza and pneumonia,Statins,Influenza
+Conjugate vaccines for preventing Haemophilus influenzae type b infections in children under 5 years of age,Vaccination,Influenza
+Influenza vaccination for healthcare workers who care for people aged 60 or older living in long-term care institutions,Vaccination,Influenza
+Interventions to increase influenza vaccination rates of those 60 years and older in the community,Vaccination,Influenza
+Vaccines for preventing influenza in healthy adults,Vaccination,Influenza
+Vaccines for preventing influenza in healthy children,Vaccination,Influenza
+Vaccines for preventing influenza in the elderly,Vaccination,Influenza
 Antibiotics for preventing complications in children with measles,Antibiotic vs placebo,Measles
+Chinese medicinal herbs for measles,CAM,Measles
+Post-exposure passive immunisation for preventing measles,Vaccination,Measles
+"Vaccines for measles, mumps and rubella in children",Vaccination,Measles
+Routine vitamin A supplementation for the prevention of blindness due to measles infection in children,Vitamin A,Measles
+Vitamin A for treating measles in children,Vitamin A,Measles
+Third generation cephalosporins versus conventional antibiotics for treating acute bacterial meningitis,Antibiotic vs antibiotic,Meningitis
 Antibiotic prophylaxis for preventing meningitis in patients with basilar skull fractures,Antibiotic vs placebo,Meningitis
 Antibiotics for preventing meningococcal infections,Antibiotic vs placebo,Meningitis
 Pre-admission antibiotics for suspected cases of meningococcal disease,Antibiotic vs placebo,Meningitis
+Anti-cytokine and anti-endotoxin therapies for meningococcal disease,Anticytokine,Meningitis
+Corticosteroids for acute bacterial meningitis,Corticosteroid,Meningitis
+Corticosteroids for parasitic eosinophilic meningitis,Corticosteroid,Meningitis
+Fluid therapy for acute bacterial meningitis,Fluid therapy,Meningitis
+Osmotic therapies added to antibiotics for acute bacterial meningitis,Glycerol,Meningitis
+Polysaccharide vaccines for preventing serogroup A meningococcal meningitis,Vaccination,Meningitis
+Acupuncture for mumps in children,Acupuncture,Mumps
+Chinese medicinal herbs for mumps,CAM,Mumps
+"Vaccines for measles, mumps and rubella in children",Vaccination,Mumps
 Antibiotics for acute otitis media in children,Antibiotic vs placebo,Otitis media
 Antibiotics for the prevention of acute and chronic suppurative otitis media in children,Antibiotic vs placebo,Otitis media
 Once or twice daily versus three times daily amoxicillin with or without clavulanate for the treatment of acute otitis media,Antibiotic vs placebo,Otitis media
 Short-course antibiotics for acute otitis media,Antibiotic vs placebo,Otitis media
+Topical analgesia for acute otitis media,Topical analgesia,Otitis media
+Influenza vaccines for preventing acute otitis media in infants and children,Vaccination,Otitis media
+Pneumococcal conjugate vaccines for preventing otitis media,Vaccination,Otitis media
+Xylitol for preventing acute otitis media in children up to 12 years of age,Xylitol,Otitis media
+Zinc supplements for preventing otitis media,Zinc,Otitis media
 Antibiotics for whooping cough (pertussis),Antibiotic vs placebo,Pertussis
-Antibiotics for acute laryngitis in adults,Antibiotic vs placebo,Pharyngitis / sore throat
-Antibiotics for sore throat,Antibiotic vs placebo,Pharyngitis / sore throat
-Different antibiotic treatments for group A streptococcal pharyngitis,Antibiotic vs placebo,Pharyngitis / sore throat
-Short-term late-generation antibiotics versus longer term penicillin for acute streptococcal pharyngitis in children,Antibiotic vs placebo,Pharyngitis / sore throat
+Acellular vaccines for preventing whooping cough in children,Vaccination,Pertussis
+"Combined DTP-HBV vaccine versus separately administered DTP and HBV vaccines for primary prevention of diphtheria, tetanus, pertussis, and hepatitis B",Vaccination,Pertussis
+"Combined DTP-HBV-HIB vaccine versus separately administered DTP-HBV and HIB vaccines for primary prevention of diphtheria, tetanus, pertussis, hepatitis B and Haemophilus influenzae B (HIB)",Vaccination,Pertussis
+Vaccination in pregnancy to prevent pertussis in early infancy,Vaccination,Pertussis
+Antibiotics for acute laryngitis in adults,Antibiotic vs placebo,Pharyngitis
+Antibiotics for sore throat,Antibiotic vs placebo,Pharyngitis
+Different antibiotic treatments for group A streptococcal pharyngitis,Antibiotic vs placebo,Pharyngitis
+Short-term late-generation antibiotics versus longer term penicillin for acute streptococcal pharyngitis in children,Antibiotic vs placebo,Pharyngitis
+Chinese medicinal herbs for sore throat,CAM,Pharyngitis
+Corticosteroids as standalone or add-on treatment for sore throat,Corticosteroid,Pharyngitis
+Rapid antigen detection test for group A streptococcus in children with pharyngitis,Diagnostic test,Pharyngitis
+Pneumococcal conjugate vaccines for preventing vaccine-type invasive pneumococcal disease and X-ray defined pneumonia in children less than two years of age,Vaccination,Pneumococcus
+Vaccines for preventing pneumococcal infection in adults,Vaccination,Pneumococcus
+Short-course versus prolonged-course antibiotic therapy for hospital-acquired pneumonia in critically ill adults,Antibiotic vs placebo,Pneumonia
 Antibiotic therapy versus no antibiotic therapy for children aged two to 59 months with WHO-defined non-severe pneumonia and wheeze,Antibiotic vs placebo,Pneumonia
 Antibiotics for community-acquired lower respiratory tract infections secondary to Mycoplasma pneumoniae in children,Antibiotic vs placebo,Pneumonia
 Antibiotics for community-acquired pneumonia in adult outpatients,Antibiotic vs placebo,Pneumonia
@@ -36,140 +144,32 @@ Oral antibiotics versus parenteral antibiotics for severe pneumonia in children,
 Short-course versus long-course antibiotic therapy for non-severe community-acquired pneumonia in children aged 2 months to 59 months,Antibiotic vs placebo,Pneumonia
 Short-course versus long-course intravenous therapy of the same antibiotic for severe community-acquired pneumonia in children aged two months to 59 months,Antibiotic vs placebo,Pneumonia
 Short-course versus long-course therapy of the same antibiotic for community-acquired pneumonia in adolescent and adult outpatients,Antibiotic vs placebo,Pneumonia
-*Antibiotics for acute maxillary sinusitis in adults,Antibiotic vs placebo,Sinusitis
-Intranasal ipratropium bromide for the common cold,Anticholinergic,Common cold
-Anti-cytokine and anti-endotoxin therapies for meningococcal disease,Anticytokine,Meningitis
-Antihistamines for the common cold,Antihistamine,Common cold
-Oral antihistamine-decongestant-analgesic combinations for the common cold,Antihistamine,Common cold
-Over-the-counter (OTC) medications for acute cough in children and adults in ambulatory settings,Antihistamine,Cough
-Symptomatic treatment of the cough in whooping cough,Antihistamine,Cough
-"Decongestants, antihistamines and nasal irrigation for acute sinusitis in children",Antihistamine,Sinusitis
-Acetylcysteine and carbocysteine for acute upper and lower respiratory tract infections in paediatric patients without chronic broncho-pulmonary disease,Antitussive  / decongestant / expectorant / mucolytic,ARI non-specific
-Acetylcysteine and carbocysteine for acute upper and lower respiratory tract infections in paediatric patients without chronic broncho-pulmonary disease,Antitussive  / decongestant / expectorant / mucolytic,"Bronchitis, acute"
-Nasal decongestants for the common cold,Antitussive  / decongestant / expectorant / mucolytic,Common cold
-Over-the-counter (OTC) medications for acute cough in children and adults in ambulatory settings,Antitussive  / decongestant / expectorant / mucolytic,Cough
-Over-the-counter (OTC) medications to reduce cough as an adjunct to antibiotics for acute pneumonia in children and adults,Antitussive  / decongestant / expectorant / mucolytic,Cough
-"Decongestants, antihistamines and nasal irrigation for acute sinusitis in children",Antitussive  / decongestant / expectorant / mucolytic,Sinusitis
-Acyclovir for treating varicella in otherwise healthy children and adolescents,Antiviral,Herpes zoster
-Antiviral prophylaxis for varicella zoster in immunocompromised patients (excluding haematological malignancies),Antiviral,Herpes zoster
-Amantadine and rimantadine for influenza A in adults,Antiviral,Influenza
-Amantadine and rimantadine for influenza A in children and the elderly,Antiviral,Influenza
-Neuraminidase inhibitors for preventing and treating influenza in children (published trials only),Antiviral,Influenza
-Neuraminidase inhibitors for preventing and treating influenza in healthy adults and children,Antiviral,Influenza
-Bronchodilators for bronchiolitis,Bronchodilator,Bronchiolitis
-Beta2-agonists for acute bronchitis,Bronchodilator,"Bronchitis, acute"
-Over-the-counter (OTC) medications for acute cough in children and adults in ambulatory settings,Bronchodilator,Cough
-Homeopathic remedies for preventing and treating acute respiratory tract infections in children,CAM,ARI non-specific
-Pelargonium sidoides extract for treating acute respiratory tract infections,CAM,ARI non-specific
-Chinese medicinal herbs for acute bronchitis,CAM,"Bronchitis, acute"
-Chinese medicinal herbs for the common cold,CAM,Common cold
-Echinacea for preventing and treating the common cold,CAM,Common cold
-Garlic for the common cold,CAM,Common cold
-Honey for acute cough in children,CAM,Cough
-Chinese medicinal herbs for influenza,CAM,Influenza
-Homeopathic Oscillococcinum¨ for preventing and treating influenza and influenza-like illness,CAM,Influenza
-Chinese medicinal herbs for measles,CAM,Measles
-Chinese medicinal herbs for mumps,CAM,Mumps
-Chinese medicinal herbs for sore throat,CAM,Pharyngitis / sore throat
-Chinese herbs combined with Western medicine for severe acute respiratory syndrome (SARS),CAM,SARS
-Continuous positive airway pressure (CPAP) for acute bronchiolitis in children,Continuous positive airway pressure,Bronchiolitis
-Continuous negative extrathoracic pressure or continuous positive airway pressure compared to conventional ventilation for acute hypoxaemic respiratory failure in children,Continuous positive airway pressure,Respiratory failure
-Glucocorticoids for acute viral bronchiolitis in infants and young children,Corticosteroid,Bronchiolitis
-Corticosteroids for the common cold,Corticosteroid,Common cold
-Glucocorticoids for croup,Corticosteroid,Croup
-Steroids for symptom control in infectious mononucleosis,Corticosteroid,Infectious mononucleosis
-Corticosteroids as adjunctive therapy in the treatment of influenza,Corticosteroid,Influenza
-Corticosteroids for acute bacterial meningitis,Corticosteroid,Meningitis
-Corticosteroids for parasitic eosinophilic meningitis,Corticosteroid,Meningitis
-Corticosteroids as standalone or add-on treatment for sore throat,Corticosteroid,Pharyngitis / sore throat
 Corticosteroids for pneumonia,Corticosteroid,Pneumonia
-Intranasal steroids for acute sinusitis,Corticosteroid,Sinusitis
-Systemic corticosteroids for acute sinusitis,Corticosteroid,Sinusitis
-Nebulised deoxyribonuclease for viral bronchiolitis in children younger than 24 months,Deoxyribonuclease,Bronchiolitis
-Rapid viral diagnosis for acute febrile respiratory illness in children in the Emergency Department,Diagnostic test,ARI non-specific
-Rapid antigen detection test for group A streptococcus in children with pharyngitis,Diagnostic test,Pharyngitis / sore throat
 Clinical symptoms and signs for the diagnosis of Mycoplasma pneumoniae in children and adolescents with community-acquired pneumonia,Diagnostic test,Pneumonia
 Quantitative versus qualitative cultures of respiratory secretions for clinical outcomes in patients with ventilator-associated pneumonia,Diagnostic test,Pneumonia
-Biomarkers as point-of-care tests to guide prescription of antibiotics in patients with acute respiratory infections in primary care,Diagnostic test,ARI non-specific
-Shared decision making for acute respiratory infections in primary care,Education / counselling,ARI non-specific
-Advising patients to increase fluid intake for treating acute respiratory infections,Fluid therapy,ARI non-specific
-Fluid therapy for acute bacterial meningitis,Fluid therapy,Meningitis
-Osmotic therapies added to antibiotics for acute bacterial meningitis,Glycerol,Meningitis
-Heliox inhalation therapy for bronchiolitis in infants,Heliox,Bronchiolitis
-Heliox for croup in children,Heliox,Croup
-Nebulised hypertonic saline solution for acute bronchiolitis in infants,Humidification / steam,Bronchiolitis
-Steam inhalation or humidified oxygen for acute bronchiolitis in children up to three years of age,Humidification / steam,Bronchiolitis
-"Heated, humidified air for the common cold",Humidification / steam,Common cold
-Symptomatic treatment of the cough in whooping cough,Immunoglobulin,Cough
-Immunoglobulin treatment for respiratory syncytial virus infection,Immunoglobulin,Respiratory syncytial virus
 Granulocyte-Colony Stimulating Factor (G-CSF) as an adjunct to antibiotics in the treatment of pneumonia in adults,Immunostimulant,Pneumonia
-Immunostimulants for preventing respiratory tract infection in children,Immunotherapy,ARI non-specific
-Physical interventions to interrupt or reduce the spread of respiratory viruses,Infection control,ARI non-specific
-Leukotriene inhibitors for bronchiolitis in infants and young children,Leukotriene,Bronchiolitis
-Monoclonal antibody for reducing the risk of respiratory syncytial virus infection in children,Monoclonal antibody,Respiratory syncytial virus
-Saline nasal irrigation for acute upper respiratory tract infections,Nasal Irrigation,ARI non-specific
-"Decongestants, antihistamines and nasal irrigation for acute sinusitis in children",Nasal irrigation,Sinusitis
-Non-steroidal anti-inflammatory drugs for the common cold,NSAID,Common cold
-Symptomatic treatment of the cough in whooping cough,NSAID,Cough
-High-flow nasal cannula therapy for infants with bronchiolitis,Oxygen therapy,Bronchiolitis
-Oxygen therapy for lower respiratory tract infections in children between 3 months and 15 years of age,Oxygen therapy,"Bronchitis, acute"
 Oxygen therapy for pneumonia in adults,Oxygen therapy,Pneumonia
-Acetaminophen (paracetamol) for the common cold in adults,Paracetamol,Common cold
-Exercise for acute respiratory infections,Physiotherapy / exercise,ARI non-specific
-Chest physiotherapy for acute bronchiolitis in paediatric patients between 0 and 24 months old,Physiotherapy / exercise,Bronchiolitis
-Chest physiotherapy for pneumonia in adults,Physiotherapy / exercise,Pneumonia
-Chest physiotherapy for pneumonia in children,Physiotherapy / exercise,Pneumonia
+Chest physiotherapy for pneumonia in adults,Physiotherapy,Pneumonia
+Chest physiotherapy for pneumonia in children,Physiotherapy,Pneumonia
 Semi-recumbent position versus supine position for the prevention of ventilator-associated pneumonia in adults requiring mechanical ventilation,Positioning,Pneumonia
-Positioning for acute respiratory distress in hospitalised infants and children,Positioning,Respiratory failure
-Probiotics for preventing acute upper respiratory tract infections,Probiotic,ARI non-specific
 Probiotics for preventing ventilator-associated pneumonia,Probiotic,Pneumonia
-Procalcitonin to initiate or discontinue antibiotics in acute respiratory tract infections,Procalcitonin,ARI non-specific
-"Remediating buildings damaged by dampness and mould for preventing or reducing respiratory tract symptoms, infections and asthma",Public health,ARI non-specific
-Chest radiographs for acute lower respiratory tract infections,Radiography,"Bronchitis, acute"
-Statins for influenza and pneumonia,Statins,Influenza
-Surfactant therapy for bronchiolitis in critically ill infants,Surfactant,Bronchiolitis
-Surgical versus non-surgical management for pleural empyema,Surgery,Empyema
-Topical analgesia for acute otitis media,Topical analgesia,Otitis media
-Haemophilus influenzae oral vaccination for preventing acute exacerbations of chronic bronchitis and chronic obstructive pulmonary disease,Vaccination,"Bronchitis, acute"
-Vaccines for the common cold,Vaccination,Common cold
-"Combined DTP-HBV-HIB vaccine versus separately administered DTP-HBV and HIB vaccines for primary prevention of diphtheria, tetanus, pertussis, hepatitis B and Haemophilus influenzae B (HIB)",Vaccination,Croup
-"Combined DTP-HBV vaccine versus separately administered DTP and HBV vaccines for primary prevention of diphtheria, tetanus, pertussis, and hepatitis B",Vaccination,Diptheria
-"Combined DTP-HBV-HIB vaccine versus separately administered DTP-HBV and HIB vaccines for primary prevention of diphtheria, tetanus, pertussis, hepatitis B and Haemophilus influenzae B (HIB)",Vaccination,Diptheria
-"Combined DTP-HBV vaccine versus separately administered DTP and HBV vaccines for primary prevention of diphtheria, tetanus, pertussis, and hepatitis B",Vaccination,Hepatitis
-"Combined DTP-HBV-HIB vaccine versus separately administered DTP-HBV and HIB vaccines for primary prevention of diphtheria, tetanus, pertussis, hepatitis B and Haemophilus influenzae B (HIB)",Vaccination,Hepatitis
-Vaccines for post-exposure prophylaxis against varicella (chickenpox) in children and adults,Vaccination,Herpes zoster
-Vaccines for preventing herpes zoster in older adults,Vaccination,Herpes zoster
-Conjugate vaccines for preventing Haemophilus influenzae type b infections in children under 5 years of age,Vaccination,Influenza
-Influenza vaccination for healthcare workers who care for people aged 60 or older living in long-term care institutions,Vaccination,Influenza
-Interventions to increase influenza vaccination rates of those 60 years and older in the community,Vaccination,Influenza
-Vaccines for preventing influenza in healthy adults,Vaccination,Influenza
-Vaccines for preventing influenza in healthy children,Vaccination,Influenza
-Vaccines for preventing influenza in the elderly,Vaccination,Influenza
-Post-exposure passive immunisation for preventing measles,Vaccination,Measles
-"Vaccines for measles, mumps and rubella in children",Vaccination,Measles
-Polysaccharide vaccines for preventing serogroup A meningococcal meningitis,Vaccination,Meningitis
-"Vaccines for measles, mumps and rubella in children",Vaccination,Mumps
-Influenza vaccines for preventing acute otitis media in infants and children,Vaccination,Otitis media
-Pneumococcal conjugate vaccines for preventing otitis media,Vaccination,Otitis media
-Acellular vaccines for preventing whooping cough in children,Vaccination,Pertussis
-"Combined DTP-HBV vaccine versus separately administered DTP and HBV vaccines for primary prevention of diphtheria, tetanus, pertussis, and hepatitis B",Vaccination,Pertussis
-"Combined DTP-HBV-HIB vaccine versus separately administered DTP-HBV and HIB vaccines for primary prevention of diphtheria, tetanus, pertussis, hepatitis B and Haemophilus influenzae B (HIB)",Vaccination,Pertussis
-Vaccination in pregnancy to prevent pertussis in early infancy,Vaccination,Pertussis
-Pneumococcal conjugate vaccines for preventing vaccine-type invasive pneumococcal disease and X-ray defined pneumonia in children less than two years of age,Vaccination,Pneumococcus
-Vaccines for preventing pneumococcal infection in adults,Vaccination,Pneumococcus
 Pneumococcal conjugate vaccines for preventing vaccine-type invasive pneumococcal disease and X-ray defined pneumonia in children less than two years of age,Vaccination,Pneumonia
-Post-exposure passive immunisation for preventing rubella and congenital rubella syndrome,Vaccination,Rubella
-"Vaccines for measles, mumps and rubella in children",Vaccination,Rubella
-"Combined DTP-HBV vaccine versus separately administered DTP and HBV vaccines for primary prevention of diphtheria, tetanus, pertussis, and hepatitis B",Vaccination,Tetanus
-"Combined DTP-HBV-HIB vaccine versus separately administered DTP-HBV and HIB vaccines for primary prevention of diphtheria, tetanus, pertussis, hepatitis B and Haemophilus influenzae B (HIB)",Vaccination,Tetanus
-Vitamin A for preventing acute lower respiratory tract infections in children up to seven years of age,Vitamin A,"Bronchitis, acute"
-Routine vitamin A supplementation for the prevention of blindness due to measles infection in children,Vitamin A,Measles
-Vitamin A for treating measles in children,Vitamin A,Measles
 Vitamin A for non-measles pneumonia in children,Vitamin A,Pneumonia
-Vitamin C for preventing and treating the common cold,Vitamin C,Common cold
 Vitamin C for preventing and treating pneumonia,Vitamin C,Pneumonia
-Xylitol for preventing acute otitis media in children up to 12 years of age,Xylitol,Otitis media
-Zinc for the common cold,Zinc,Common cold
-Zinc supplements for preventing otitis media,Zinc,Otitis media
 Zinc supplementation as an adjunct to antibiotics in the treatment of pneumonia in children 2 to 59 months of age,Zinc,Pneumonia
 Zinc supplementation for the prevention of pneumonia in children aged 2 months to 59 months,Zinc,Pneumonia
+Continuous negative extrathoracic pressure or continuous positive airway pressure compared to conventional ventilation for acute hypoxaemic respiratory failure in children,CPAP,Respiratory failure
+Positioning for acute respiratory distress in hospitalised infants and children,Positioning,Respiratory failure
+Immunoglobulin treatment for respiratory syncytial virus infection,Immunoglobulin,RSV
+Monoclonal antibody for reducing the risk of respiratory syncytial virus infection in children,Monoclonal antibody,RSV
+Post-exposure passive immunisation for preventing rubella and congenital rubella syndrome,Vaccination,Rubella
+"Vaccines for measles, mumps and rubella in children",Vaccination,Rubella
+Chinese herbs combined with Western medicine for severe acute respiratory syndrome (SARS),CAM,SARS
+*Antibiotics for acute maxillary sinusitis in adults,Antibiotic vs placebo,Sinusitis
+"Decongestants, antihistamines and nasal irrigation for acute sinusitis in children",Antihistamine,Sinusitis
+"Decongestants, antihistamines and nasal irrigation for acute sinusitis in children",Antitussive,Sinusitis
+Intranasal steroids for acute sinusitis,Corticosteroid,Sinusitis
+Systemic corticosteroids for acute sinusitis,Corticosteroid,Sinusitis
+"Decongestants, antihistamines and nasal irrigation for acute sinusitis in children",Nasal irrigation,Sinusitis
+"Combined DTP-HBV vaccine versus separately administered DTP and HBV vaccines for primary prevention of diphtheria, tetanus, pertussis, and hepatitis B",Vaccination,Tetanus
+"Combined DTP-HBV-HIB vaccine versus separately administered DTP-HBV and HIB vaccines for primary prevention of diphtheria, tetanus, pertussis, hepatitis B and Haemophilus influenzae B (HIB)",Vaccination,Tetanus

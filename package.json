@@ -4,6 +4,7 @@
   "description": "CREBP project to find the gaps in diseases/interventions",
   "main": "index.js",
   "scripts": {
+    "prepublish": "gulp build",
     "start": "node server.js",
     "build": "gulp"
   },
@@ -22,6 +23,7 @@
     "d3": "^4.4.0",
     "golden-colors": "^2.0.0",
     "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
     "gulp-util": "^3.0.7",
     "lodash": "^4.11.2"
   },

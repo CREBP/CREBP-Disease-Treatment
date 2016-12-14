@@ -1,5 +1,6 @@
 var _ = require('lodash');
 var async = require('async-chainable');
+var concat = require('gulp-concat');
 var csvParser = require('csv-parser');
 var fs = require('fs');
 var gulp = require('gulp');
@@ -18,8 +19,18 @@ var paths = {
 };
 
 gulp.task('default', ['build']);
+gulp.task('build', ['data', 'vendors']);
 
-gulp.task('build', function(next) {
+gulp.task('vendors', function() {
+	return gulp.src([
+		'./node_modules/d3/build/d3.min.js',
+		'./node_modules/golden-colors/dist/golden-colors.min.js',
+	])
+		.pipe(concat('app.min.js'))
+		.pipe(gulp.dest('./lib'))
+});
+
+gulp.task('data', function(next) {
 	async()
 		.limit(50)
 

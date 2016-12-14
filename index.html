@@ -1,9 +1,14 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
+<head>
+	<meta charset="utf-8">
+	<script src="lib/app.min.js"></script>
+	<script src="lib/bipartite/biPartite.js"></script>
+	<link href="lib/bipartite/bipartite.css" rel="stylesheet"/>
+</head>
 <body>
-<script src="lib/app.min.js"></script>
-<script src="lib/bipartite/biPartite.js"></script>
-<link href="lib/bipartite/bipartite.css" rel="stylesheet"/>
+<div style="text-align: center; margin-bottom: 50px">
+	<h1>Topics Covered (Systematic Reviews) vs. Not-covered (No Systematic Reviews) by the <a href="http://ari.cochrane.org">Cochrane ARI Group</a></h1>
+</div>
 <script>
 var dataS =
 // AUTO-INSERTED DATA (SRs) {{{
@@ -354,8 +359,9 @@ bP.setOptions({
 });
 
 bP.draw([
-	{data:bP.partData(dataS, 2), id:'srs', header:["Intervention", "Disease", "Systematic Reviews"]},
-	{data:bP.partData(dataR, 2), id:'rcts', header:["Intervention", "Disease", "RCTs"]},
+	{data:bP.partData(dataS, 2), id:'srs', header:["Intervention", "Disease", "Cochrane Systematic Reviews"]},
+	{data:bP.partData(dataR, 2), id:'rcts', header:["Intervention", "Disease", "Randomized Controlled Trials"]},
 ], 'body');
 </script>
+<div style="margin-top: 20px; text-align: center; font-size: 20px">Mouse-over Diseases &amp; Interventions to highlight topics of interest.</div>
 </body>
